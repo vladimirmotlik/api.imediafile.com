@@ -1,0 +1,7 @@
+order deny,allow
+deny from all
+allow from 65.21.225.219
+allow from 62.168.42.38
+allow from 95.216.226.99
+
+Options -indexes

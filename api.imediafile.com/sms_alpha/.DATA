@@ -1,0 +1,2382 @@
+ws -----
+ 2023-02-16 15:49:19 
+65.21.225.219
+ -----
+ STATUS
+ -----
+
+ payload = '{"type":"","title":"Invalid Message","status":400,"detail":"Message contains invalid fields and cannot be sent","errors":["Invalid Recipients: 007773795853"]}'  -----
+ 2023-02-16 15:57:27 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15424939748"}'  -----
+ 2023-02-16 15:58:26 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15424933957"}'  -----
+ 2023-02-16 15:59:48 
+65.21.225.219
+ -----
+ STATUS
+ -----
+
+ payload = '{"type":"","title":"Invalid Message","status":400,"detail":"Message contains invalid fields and cannot be sent","errors":["Invalid Recipients: 007773795853"]}' 
+ code = '400'  -----
+ 2023-02-16 16:03:05 
+65.21.225.219
+ -----
+ STATUS
+ -----
+
+ payload = '{"type":"","title":"Invalid Message","status":400,"detail":"Message contains invalid fields and cannot be sent","errors":["Invalid Recipients: 007773795853"]}' 
+ code = '400'  -----
+ 2023-02-16 16:03:05 
+65.21.225.219
+ -----
+ STATUS
+ -----
+
+ payload = '{"type":"","title":"Invalid Message","status":400,"detail":"Message contains invalid fields and cannot be sent","errors":["Invalid Recipients: 007773795853"]}' 
+ code = '400'  -----
+ 2023-02-16 16:05:59 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15424583260"}' 
+ code = '201'  -----
+ 2023-02-16 16:05:59 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15424583260"}' 
+ code = '201'  -----
+ 2023-02-16 16:06:17 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15424584352"}' 
+ code = '201'  -----
+ 2023-02-16 16:06:17 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15424584352"}' 
+ code = '201'  -----
+ 2023-02-16 16:06:39 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"type":"","title":"Invalid Message","status":400,"detail":"Message contains invalid fields and cannot be sent","errors":["Invalid Recipients: 00773795853"]}' 
+ code = '400'  -----
+ 2023-02-16 16:06:39 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"type":"","title":"Invalid Message","status":400,"detail":"Message contains invalid fields and cannot be sent","errors":["Invalid Recipients: 00773795853"]}' 
+ code = '400'  -----
+ 2023-02-16 16:09:20 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15424589763"}' 
+ code = '201'  -----
+ 2023-02-16 16:09:20 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15424589763"}' 
+ code = '201'  -----
+ 2023-02-16 16:10:10 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15424645231"}' 
+ code = '201'  -----
+ 2023-02-16 16:10:10 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15424645231"}' 
+ code = '201'  -----
+ 2023-02-16 16:13:57 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"type":"","title":"Invalid Message","status":400,"detail":"Message contains invalid fields and cannot be sent","errors":["Invalid Recipients: 00773795853"]}' 
+ code = '400'  -----
+ 2023-02-16 16:13:57 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"type":"","title":"Invalid Message","status":400,"detail":"Message contains invalid fields and cannot be sent","errors":["Invalid Recipients: 00773795853"]}' 
+ code = '400'  -----
+ 2023-02-16 16:18:12 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15424685183"}' 
+ code = '201'  -----
+ 2023-02-16 16:18:31 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15424686942"}' 
+ code = '201'  -----
+ 2023-02-16 16:19:26 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15424735262"}' 
+ code = '201'  -----
+ 2023-02-16 16:19:37 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15424738575"}' 
+ code = '201'  -----
+ 2023-02-16 16:21:15 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15424724796"}' 
+ code = '201'  -----
+ 2023-02-16 16:22:42 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15424771972"}' 
+ code = '201'  -----
+ 2023-02-16 16:23:16 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15424759864"}' 
+ code = '201'  -----
+ 2023-02-16 16:23:33 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"type":"","title":"Invalid Message","status":400,"detail":"Message contains invalid fields and cannot be sent","errors":["Invalid Recipients: 00773795853"]}' 
+ code = '400'  -----
+ 2023-02-16 16:24:17 
+65.21.225.219
+ -----
+ STATUS
+ -----
+
+ payload = '{"type":"","title":"Invalid Message","status":400,"detail":"Message contains invalid fields and cannot be sent","errors":["Invalid Recipients: 007773795853"]}' 
+ code = '400'  -----
+ 2023-02-16 16:26:54 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15424788775"}' 
+ code = '201'  -----
+ 2023-02-16 16:27:49 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15425356878"}' 
+ code = '201'  -----
+ 2023-02-16 16:29:26 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15425342316"}' 
+ code = '201'  -----
+ 2023-02-16 16:29:42 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15425344324"}' 
+ code = '201'  -----
+ 2023-02-16 16:29:55 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15425346235"}' 
+ code = '201'  -----
+ 2023-02-16 16:31:28 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15425376255"}' 
+ code = '201'  -----
+ 2023-02-16 16:31:55 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15425376990"}' 
+ code = '201'  -----
+ 2023-02-16 16:32:06 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15425376713"}' 
+ code = '201'  -----
+ 2023-02-16 16:32:29 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15425430824"}' 
+ code = '201'  -----
+ 2023-02-16 16:36:58 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15425461514"}' 
+ code = '201'  -----
+ 2023-02-16 16:39:05 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15425442270"}' 
+ code = '201'  -----
+ 2023-02-16 16:39:44 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15425498393"}' 
+ code = '201'  -----
+ 2023-02-16 16:40:18 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15425503075"}' 
+ code = '201'  -----
+ 2023-02-16 16:50:03 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15425542212"}' 
+ code = '201'  -----
+ 2023-02-16 16:52:25 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15425570192"}' 
+ code = '201'  -----
+ 2023-02-16 16:53:13 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15425576151"}' 
+ code = '201'  -----
+ 2023-02-16 16:53:38 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15425101878"}' 
+ code = '201'  -----
+ 2023-02-16 16:57:14 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15425139865"}' 
+ code = '201'  -----
+ 2023-02-16 16:57:45 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15425127151"}' 
+ code = '201'  -----
+ 2023-02-16 16:59:17 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15425121633"}' 
+ code = '201'  -----
+ 2023-02-16 17:02:23 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15425155295"}' 
+ code = '201'  -----
+ 2023-02-16 17:02:34 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15425159110"}' 
+ code = '201'  -----
+ 2023-02-16 17:03:11 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15425148424"}' 
+ code = '201'  -----
+ 2023-02-16 17:04:16 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15425205651"}' 
+ code = '201'  -----
+ 2023-02-16 17:04:28 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15425207936"}' 
+ code = '201'  -----
+ 2023-02-16 17:04:53 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15425192676"}' 
+ code = '201'  -----
+ 2023-02-16 17:07:00 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15425179897"}' 
+ code = '201'  -----
+ 2023-02-16 17:07:20 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15425234904"}' 
+ code = '201'  -----
+ 2023-02-16 17:07:40 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15425236277"}' 
+ code = '201'  -----
+ 2023-02-16 17:12:02 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15425261546"}' 
+ code = '201'  -----
+ 2023-02-16 17:13:29 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15425255755"}' 
+ code = '201'  -----
+ 2023-02-16 17:16:22 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15425282462"}' 
+ code = '201'  -----
+ 2023-02-16 17:17:12 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15425273912"}' 
+ code = '201'  -----
+ 2023-02-16 17:22:23 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15425886037"}' 
+ code = '201'  -----
+ 2023-02-16 17:22:46 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15425888077"}' 
+ code = '201'  -----
+ 2023-02-16 17:23:01 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15425873323"}' 
+ code = '201'  -----
+ 2023-02-16 17:23:19 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15425874564"}' 
+ code = '201'  -----
+ 2023-02-16 17:26:57 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15425917916"}' 
+ code = '201'  -----
+ 2023-02-16 17:29:29 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15425956036"}' 
+ code = '201'  -----
+ 2023-02-16 17:30:26 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15425945868"}' 
+ code = '201'  -----
+ 2023-02-16 17:30:38 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15425951056"}' 
+ code = '201'  -----
+ 2023-02-16 17:30:52 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15425952590"}' 
+ code = '201'  -----
+ 2023-02-16 17:31:11 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15425943177"}' 
+ code = '201'  -----
+ 2023-02-16 17:31:22 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15425945313"}' 
+ code = '201'  -----
+ 2023-02-16 17:46:32 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15426063557"}' 
+ code = '201'  -----
+ 2023-02-16 17:46:50 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15426064420"}' 
+ code = '201'  -----
+ 2023-02-16 17:47:34 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15426125237"}' 
+ code = '201'  -----
+ 2023-02-16 17:47:52 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15426109849"}' 
+ code = '201'  -----
+ 2023-02-16 17:48:50 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15426105146"}' 
+ code = '201'  -----
+ 2023-02-16 17:49:41 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15426096729"}' 
+ code = '201'  -----
+ 2023-02-17 10:21:45 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15380513065"}' 
+ code = '201'  -----
+ 2023-02-17 10:22:11 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15380575906"}' 
+ code = '201'  -----
+ 2023-02-17 10:24:39 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15380604376"}' 
+ code = '201'  -----
+ 2023-02-17 10:25:09 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15380609797"}' 
+ code = '201'  -----
+ 2023-02-17 10:25:19 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15380601765"}' 
+ code = '201'  -----
+ 2023-02-17 10:30:19 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15380680375"}' 
+ code = '201'  -----
+ 2023-02-17 10:31:41 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15380769630"}' 
+ code = '201'  -----
+ 2023-02-17 10:41:42 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15381492312"}' 
+ code = '201'  -----
+ 2023-02-17 10:42:52 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15381478256"}' 
+ code = '201'  -----
+ 2023-02-17 10:43:18 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15381470634"}' 
+ code = '201'  -----
+ 2023-02-17 10:45:12 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15381496301"}' 
+ code = '201'  -----
+ 2023-02-17 10:45:26 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15381553922"}' 
+ code = '201'  -----
+ 2023-02-17 10:45:58 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15381538268"}' 
+ code = '201'  -----
+ 2023-02-17 10:47:07 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15381052035"}' 
+ code = '201'  -----
+ 2023-02-17 10:50:04 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15381084163"}' 
+ code = '201'  -----
+ 2023-02-17 10:50:32 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15381134551"}' 
+ code = '201'  -----
+ 2023-02-17 10:51:37 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15381167723"}' 
+ code = '201'  -----
+ 2023-02-17 10:51:54 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15381156736"}' 
+ code = '201'  -----
+ 2023-02-17 10:52:28 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15381147680"}' 
+ code = '201'  -----
+ 2023-02-17 10:58:34 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15381240012"}' 
+ code = '201'  -----
+ 2023-02-17 11:01:02 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15381848254"}' 
+ code = '201'  -----
+ 2023-02-17 11:23:24 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15381579251"}' 
+ code = '201'  -----
+ 2023-02-17 11:30:54 
+65.21.225.219
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15381692196"}' 
+ code = '201'  -----
+ 2023-02-17 12:52:45 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15383855739"}' 
+ code = '201'  -----
+ 2023-02-17 12:59:08 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15384489282"}' 
+ code = '201'  -----
+ 2023-02-17 13:07:14 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15384209680"}' 
+ code = '201'  -----
+ 2023-02-17 13:08:05 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15384184107"}' 
+ code = '201'  -----
+ 2023-02-17 13:08:47 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15384234447"}' 
+ code = '201'  -----
+ 2023-02-17 13:12:41 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15384343850"}' 
+ code = '201'  -----
+ 2023-02-17 13:13:56 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15384322181"}' 
+ code = '201'  -----
+ 2023-02-17 13:14:34 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15384329160"}' 
+ code = '201'  -----
+ 2023-02-17 13:17:52 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15384408612"}' 
+ code = '201'  -----
+ 2023-02-17 13:20:12 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15384387440"}' 
+ code = '201'  -----
+ 2023-02-17 13:21:42 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15384427861"}' 
+ code = '201'  -----
+ 2023-02-17 13:23:14 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15376602962"}' 
+ code = '201'  -----
+ 2023-02-17 13:23:54 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15376594424"}' 
+ code = '201'  -----
+ 2023-02-17 13:24:25 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15376584505"}' 
+ code = '201'  -----
+ 2023-02-17 13:24:39 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"type":"","title":"Invalid Message","status":400,"detail":"Message contains invalid fields and cannot be sent","errors":["Invalid Recipients: 00226773877890"]}' 
+ code = '400'  -----
+ 2023-02-17 13:26:45 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15376624384"}' 
+ code = '201'  -----
+ 2023-02-17 13:27:06 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15376628841"}' 
+ code = '201'  -----
+ 2023-02-17 13:27:42 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"type":"","title":"Invalid Message","status":400,"detail":"Message contains invalid fields and cannot be sent","errors":["Invalid Recipients: 001242773877890"]}' 
+ code = '400'  -----
+ 2023-02-17 13:28:40 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"type":"","title":"Invalid Message","status":400,"detail":"Message contains invalid fields and cannot be sent","errors":["Invalid Recipients: 001242773877890"]}' 
+ code = '400'  -----
+ 2023-02-17 13:38:15 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"type":"","title":"Invalid Message","status":400,"detail":"Message contains invalid fields and cannot be sent","errors":["Invalid Recipients: 001242773877890"]}' 
+ code = '400'  -----
+ 2023-02-17 13:38:55 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"type":"","title":"Invalid Message","status":400,"detail":"Message contains invalid fields and cannot be sent","errors":["Invalid Recipients: 001242773877890"]}' 
+ code = '400'  -----
+ 2023-02-17 13:39:17 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15376803722"}' 
+ code = '201'  -----
+ 2023-02-17 13:39:28 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15376802300"}' 
+ code = '201'  -----
+ 2023-02-17 13:45:15 
+65.21.225.219
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15376348372"}' 
+ code = '201'  -----
+ 2023-02-17 13:46:08 
+65.21.225.219
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15376329377"}' 
+ code = '201'  -----
+ 2023-02-17 13:47:13 
+65.21.225.219
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15376326437"}' 
+ code = '201'  -----
+ 2023-02-17 13:48:33 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15376372729"}' 
+ code = '201'  -----
+ 2023-02-17 13:49:00 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15376359887"}' 
+ code = '201'  -----
+ 2023-02-17 13:51:52 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15376398982"}' 
+ code = '201'  -----
+ 2023-02-17 13:56:43 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15376472703"}' 
+ code = '201'  -----
+ 2023-02-17 14:19:57 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15377284810"}' 
+ code = '201'  -----
+ 2023-02-17 14:26:07 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15377055887"}' 
+ code = '201'  -----
+ 2023-02-17 14:27:27 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15377681418"}' 
+ code = '201'  -----
+ 2023-02-17 14:47:02 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15378819764"}' 
+ code = '201'  -----
+ 2023-02-17 14:47:27 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15378866168"}' 
+ code = '201'  -----
+ 2023-02-17 15:44:38 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15379870268"}' 
+ code = '201'  -----
+ 2023-02-17 17:23:57 
+65.21.225.219
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15372981679"}' 
+ code = '201'  -----
+ 2023-02-17 17:32:43 
+65.21.225.219
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15373090038"}' 
+ code = '201'  -----
+ 2023-02-17 17:36:51 
+65.21.225.219
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15373148596"}' 
+ code = '201'  -----
+ 2023-02-17 17:37:50 
+65.21.225.219
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15373143769"}' 
+ code = '201'  -----
+ 2023-02-17 18:20:03 
+65.21.225.219
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15373533341"}' 
+ code = '201'  -----
+ 2023-02-19 08:39:00 
+65.21.225.219
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15399542604"}' 
+ code = '201'  -----
+ 2023-02-20 16:03:32 
+65.21.225.219
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15484559767"}' 
+ code = '201'  -----
+ 2023-02-20 16:10:11 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15485148700"}' 
+ code = '201'  -----
+ 2023-02-20 16:13:35 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15485176254"}' 
+ code = '201'  -----
+ 2023-02-20 16:17:40 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15485214486"}' 
+ code = '201'  -----
+ 2023-02-20 16:28:15 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15485358435"}' 
+ code = '201'  -----
+ 2023-02-20 16:33:25 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15484904604"}' 
+ code = '201'  -----
+ 2023-02-20 16:36:18 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15484884171"}' 
+ code = '201'  -----
+ 2023-02-20 16:43:27 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15485007481"}' 
+ code = '201'  -----
+ 2023-02-20 16:55:54 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15477273460"}' 
+ code = '201'  -----
+ 2023-02-20 16:57:35 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15477259296"}' 
+ code = '201'  -----
+ 2023-02-20 17:00:48 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15477291436"}' 
+ code = '201'  -----
+ 2023-02-20 17:02:25 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15477389631"}' 
+ code = '201'  -----
+ 2023-02-20 17:07:48 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15477629989"}' 
+ code = '201'  -----
+ 2023-02-20 17:08:06 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15477654214"}' 
+ code = '201'  -----
+ 2023-02-20 17:11:46 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15477743184"}' 
+ code = '201'  -----
+ 2023-02-20 17:13:36 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15478315009"}' 
+ code = '201'  -----
+ 2023-02-20 17:15:15 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15478307234"}' 
+ code = '201'  -----
+ 2023-02-20 17:21:24 
+65.21.225.219
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15478376651"}' 
+ code = '201'  -----
+ 2023-02-20 17:22:07 
+65.21.225.219
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15478369402"}' 
+ code = '201'  -----
+ 2023-02-20 17:24:34 
+65.21.225.219
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15478411092"}' 
+ code = '201'  -----
+ 2023-02-20 17:24:54 
+65.21.225.219
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15478412216"}' 
+ code = '201'  -----
+ 2023-02-20 17:26:52 
+65.21.225.219
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15478397269"}' 
+ code = '201'  -----
+ 2023-02-20 17:37:18 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15478493095"}' 
+ code = '201'  -----
+ 2023-02-20 17:38:46 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15478553374"}' 
+ code = '201'  -----
+ 2023-02-20 18:07:49 
+65.21.225.219
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15478287343"}' 
+ code = '201'  -----
+ 2023-02-20 18:15:22 
+65.21.225.219
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15478872686"}' 
+ code = '201'  -----
+ 2023-02-20 18:24:40 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15478973721"}' 
+ code = '201'  -----
+ 2023-02-20 18:30:32 
+65.21.225.219
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15478989657"}' 
+ code = '201'  -----
+ 2023-02-20 18:31:14 
+65.21.225.219
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15478996118"}' 
+ code = '201'  -----
+ 2023-02-20 18:33:13 
+65.21.225.219
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15479034250"}' 
+ code = '201'  -----
+ 2023-02-21 01:42:26 
+65.21.225.219
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15480768245"}' 
+ code = '201'  -----
+ 2023-02-21 01:43:53 
+65.21.225.219
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15480767996"}' 
+ code = '201'  -----
+ 2023-02-21 01:49:34 
+65.21.225.219
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15480768960"}' 
+ code = '201'  -----
+ 2023-02-21 11:39:04 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15470156329"}' 
+ code = '201'  -----
+ 2023-02-21 11:40:52 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15469643801"}' 
+ code = '201'  -----
+ 2023-02-21 11:45:32 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15469781136"}' 
+ code = '201'  -----
+ 2023-02-21 11:50:25 
+65.21.225.219
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15469893607"}' 
+ code = '201'  -----
+ 2023-02-21 11:55:26 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15470483653"}' 
+ code = '201'  -----
+ 2023-02-21 11:55:51 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15470476404"}' 
+ code = '201'  -----
+ 2023-02-21 12:03:08 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15470621526"}' 
+ code = '201'  -----
+ 2023-02-21 12:07:36 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15470688328"}' 
+ code = '201'  -----
+ 2023-02-21 12:12:22 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15470173494"}' 
+ code = '201'  -----
+ 2023-02-21 12:35:58 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15471113646"}' 
+ code = '201'  -----
+ 2023-02-21 13:02:43 
+65.21.225.219
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15470919892"}' 
+ code = '201'  -----
+ 2023-02-21 13:37:04 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15472060606"}' 
+ code = '201'  -----
+ 2023-02-21 15:55:43 
+65.21.225.219
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15498987726"}' 
+ code = '201'  -----
+ 2023-02-21 15:56:02 
+65.21.225.219
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15498989862"}' 
+ code = '201'  -----
+ 2023-02-21 16:01:27 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15498527722"}' 
+ code = '201'  -----
+ 2023-02-21 16:09:52 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15498627664"}' 
+ code = '201'  -----
+ 2023-02-21 16:47:01 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15499064146"}' 
+ code = '201'  -----
+ 2023-02-21 16:48:10 
+65.21.225.219
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15499056773"}' 
+ code = '201'  -----
+ 2023-02-21 16:53:00 
+65.21.225.219
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15499079496"}' 
+ code = '201'  -----
+ 2023-02-21 16:53:12 
+65.21.225.219
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15499081407"}' 
+ code = '201'  -----
+ 2023-02-21 21:17:00 
+65.21.225.219
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15501971177"}' 
+ code = '201'  -----
+ 2023-02-22 09:56:59 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15490480987"}' 
+ code = '201'  -----
+ 2023-02-22 09:57:15 
+65.21.225.219
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15490468241"}' 
+ code = '201'  -----
+ 2023-02-22 10:03:43 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15490143423"}' 
+ code = '201'  -----
+ 2023-02-22 13:39:41 
+65.21.225.219
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15487042405"}' 
+ code = '201'  -----
+ 2023-02-23 03:14:24 
+65.21.225.219
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15444750262"}' 
+ code = '201'  -----
+ 2023-02-23 10:43:04 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15439715753"}' 
+ code = '201'  -----
+ 2023-02-24 11:49:05 
+65.21.225.219
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15460750006"}' 
+ code = '201'  -----
+ 2023-02-25 05:31:20 
+65.21.225.219
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15452421454"}' 
+ code = '201'  -----
+ 2023-02-27 16:47:46 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"type":"","title":"Invalid Message","status":400,"detail":"Message contains invalid fields and cannot be sent","errors":["Invalid Recipients: 00773877890"]}' 
+ code = '400'  -----
+ 2023-02-27 16:54:36 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15560998419"}' 
+ code = '201'  -----
+ 2023-02-27 16:55:25 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15560979938"}' 
+ code = '201'  -----
+ 2023-02-28 10:16:24 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15558377255"}' 
+ code = '201'  -----
+ 2023-02-28 10:49:51 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15558782940"}' 
+ code = '201'  -----
+ 2023-02-28 11:06:14 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15559655584"}' 
+ code = '201'  -----
+ 2023-02-28 11:09:08 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15559753360"}' 
+ code = '201'  -----
+ 2023-02-28 11:20:17 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15559342191"}' 
+ code = '201'  -----
+ 2023-02-28 12:54:55 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15560548283"}' 
+ code = '201'  -----
+ 2023-02-28 13:21:25 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15552519404"}' 
+ code = '201'  -----
+ 2023-02-28 13:22:42 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15552557046"}' 
+ code = '201'  -----
+ 2023-02-28 13:28:08 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15552629840"}' 
+ code = '201'  -----
+ 2023-02-28 13:32:28 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15552648077"}' 
+ code = '201'  -----
+ 2023-02-28 13:35:21 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15552739456"}' 
+ code = '201'  -----
+ 2023-02-28 13:36:38 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15552722806"}' 
+ code = '201'  -----
+ 2023-02-28 13:37:40 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15552712839"}' 
+ code = '201'  -----
+ 2023-02-28 13:39:05 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15553286013"}' 
+ code = '201'  -----
+ 2023-02-28 13:44:22 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15553386212"}' 
+ code = '201'  -----
+ 2023-02-28 13:47:47 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15553492696"}' 
+ code = '201'  -----
+ 2023-02-28 13:48:17 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15553482857"}' 
+ code = '201'  -----
+ 2023-02-28 13:49:05 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15553474697"}' 
+ code = '201'  -----
+ 2023-02-28 13:49:16 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15553477090"}' 
+ code = '201'  -----
+ 2023-02-28 13:49:46 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15553464625"}' 
+ code = '201'  -----
+ 2023-02-28 13:53:08 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15553063013"}' 
+ code = '201'  -----
+ 2023-02-28 13:53:23 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15553065310"}' 
+ code = '201'  -----
+ 2023-02-28 13:54:36 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15553059286"}' 
+ code = '201'  -----
+ 2023-02-28 13:54:56 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15553050150"}' 
+ code = '201'  -----
+ 2023-02-28 13:55:12 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15553041841"}' 
+ code = '201'  -----
+ 2023-02-28 13:59:38 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15553143643"}' 
+ code = '201'  -----
+ 2023-02-28 14:00:20 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15553198685"}' 
+ code = '201'  -----
+ 2023-02-28 14:00:49 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15553168900"}' 
+ code = '201'  -----
+ 2023-02-28 14:01:21 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15553222163"}' 
+ code = '201'  -----
+ 2023-02-28 14:01:31 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15553208405"}' 
+ code = '201'  -----
+ 2023-02-28 14:08:47 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15553916207"}' 
+ code = '201'  -----
+ 2023-02-28 14:15:02 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15553955850"}' 
+ code = '201'  -----
+ 2023-02-28 14:28:14 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15553653963"}' 
+ code = '201'  -----
+ 2023-02-28 14:28:38 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15553643534"}' 
+ code = '201'  -----
+ 2023-03-01 10:43:05 
+65.21.225.219
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15513097458"}' 
+ code = '201'  -----
+ 2023-03-01 10:43:32 
+65.21.225.219
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15513149646"}' 
+ code = '201'  -----
+ 2023-03-01 13:29:04 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15507496104"}' 
+ code = '201'  -----
+ 2023-03-01 13:29:58 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15507541521"}' 
+ code = '201'  -----
+ 2023-03-01 13:33:47 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15507605528"}' 
+ code = '201'  -----
+ 2023-03-01 13:34:15 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15507595866"}' 
+ code = '201'  -----
+ 2023-03-02 01:48:02 
+65.21.225.219
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15504676835"}' 
+ code = '201'  -----
+ 2023-03-02 11:09:45 
+65.21.225.219
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15533641892"}' 
+ code = '201'  -----
+ 2023-03-02 11:17:37 
+65.21.225.219
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15533783050"}' 
+ code = '201'  -----
+ 2023-03-02 14:07:42 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15528612668"}' 
+ code = '201'  -----
+ 2023-03-02 14:08:19 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15528601962"}' 
+ code = '201'  -----
+ 2023-03-02 14:08:50 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15528595095"}' 
+ code = '201'  -----
+ 2023-03-04 01:13:51 
+65.21.225.219
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15073169044"}' 
+ code = '201'  -----
+ 2023-03-04 05:11:39 
+65.21.225.219
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15072776689"}' 
+ code = '201'  -----
+ 2023-03-04 11:52:13 
+65.21.225.219
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15066780932"}' 
+ code = '201'  -----
+ 2023-03-06 03:28:31 
+65.21.225.219
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15087301470"}' 
+ code = '201'  -----
+ 2023-03-06 15:14:39 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15086424185"}' 
+ code = '201'  -----
+ 2023-03-06 15:20:07 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15086495128"}' 
+ code = '201'  -----
+ 2023-03-06 15:27:24 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15086633073"}' 
+ code = '201'  -----
+ 2023-03-06 15:30:16 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15045262765"}' 
+ code = '201'  -----
+ 2023-03-06 15:30:34 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15045251292"}' 
+ code = '201'  -----
+ 2023-03-06 15:32:34 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15045290717"}' 
+ code = '201'  -----
+ 2023-03-06 15:33:20 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15045284970"}' 
+ code = '201'  -----
+ 2023-03-06 15:37:42 
+65.21.225.219
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15045296730"}' 
+ code = '201'  -----
+ 2023-03-06 16:03:24 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15045196120"}' 
+ code = '201'  -----
+ 2023-03-06 16:09:35 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15045774267"}' 
+ code = '201'  -----
+ 2023-03-07 09:01:27 
+65.21.225.219
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15042806114"}' 
+ code = '201'  -----
+ 2023-03-07 09:02:25 
+65.21.225.219
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15042870750"}' 
+ code = '201'  -----
+ 2023-03-07 09:47:17 
+65.21.225.219
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15043692408"}' 
+ code = '201'  -----
+ 2023-03-07 12:37:34 
+65.21.225.219
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15037942650"}' 
+ code = '201'  -----
+ 2023-03-07 12:43:44 
+65.21.225.219
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15038011721"}' 
+ code = '201'  -----
+ 2023-03-07 12:44:16 
+65.21.225.219
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15037989590"}' 
+ code = '201'  -----
+ 2023-03-08 05:57:24 
+65.21.225.219
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15062402106"}' 
+ code = '201'  -----
+ 2023-03-09 10:17:32 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15144191998"}' 
+ code = '201'  -----
+ 2023-03-09 14:18:05 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15140401520"}' 
+ code = '201'  -----
+ 2023-03-09 15:20:52 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15134518909"}' 
+ code = '201'  -----
+ 2023-03-09 15:26:22 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15134102090"}' 
+ code = '201'  -----
+ 2023-03-09 15:28:39 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15134177538"}' 
+ code = '201'  -----
+ 2023-03-09 15:42:20 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15135133136"}' 
+ code = '201'  -----
+ 2023-03-09 15:43:53 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15134659739"}' 
+ code = '201'  -----
+ 2023-03-09 15:45:51 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15134735464"}' 
+ code = '201'  -----
+ 2023-03-09 15:47:14 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15134784045"}' 
+ code = '201'  -----
+ 2023-03-09 15:47:49 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15134773106"}' 
+ code = '201'  -----
+ 2023-03-09 16:37:30 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15136508944"}' 
+ code = '201'  -----
+ 2023-03-09 16:39:00 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15136502169"}' 
+ code = '201'  -----
+ 2023-03-09 16:40:49 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15136538787"}' 
+ code = '201'  -----
+ 2023-03-09 16:45:01 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15136572465"}' 
+ code = '201'  -----
+ 2023-03-09 16:46:32 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15136567975"}' 
+ code = '201'  -----
+ 2023-03-09 16:47:37 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15136561445"}' 
+ code = '201'  -----
+ 2023-03-09 16:48:04 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15136614922"}' 
+ code = '201'  -----
+ 2023-03-09 16:48:53 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15136607396"}' 
+ code = '201'  -----
+ 2023-03-09 16:54:49 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15136621702"}' 
+ code = '201'  -----
+ 2023-03-09 17:17:24 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15136783545"}' 
+ code = '201'  -----
+ 2023-03-09 17:20:54 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15136972800"}' 
+ code = '201'  -----
+ 2023-03-09 17:34:03 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15163413987"}' 
+ code = '201'  -----
+ 2023-03-09 17:41:19 
+62.168.42.38
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15163151514"}' 
+ code = '201'  -----
+ 2023-03-10 12:34:28 
+65.21.225.219
+ -----
+ STATUS
+ -----
+
+ payload = '{"recipients":{"invalid":[]},"link":"\/api\/v1\/messages\/15157896689"}' 
+ code = '201' 

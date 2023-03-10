@@ -1,0 +1,1798 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="@localhost">
+  <database-model serializer="dbm" dbms="MYSQL" family-id="MYSQL" format-version="4.45">
+    <root id="1">
+      <DefaultCasing>exact</DefaultCasing>
+      <DefaultEngine>InnoDB</DefaultEngine>
+      <DefaultTmpEngine>InnoDB</DefaultTmpEngine>
+      <Grants>|root||debian-sys-maint|localhost|ALTER|G
+|root||root|localhost|ALTER|G
+|root||debian-sys-maint|localhost|ALTER ROUTINE|G
+|root||root|localhost|ALTER ROUTINE|G
+|root||debian-sys-maint|localhost|CREATE|G
+|root||root|localhost|CREATE|G
+|root||debian-sys-maint|localhost|CREATE ROUTINE|G
+|root||root|localhost|CREATE ROUTINE|G
+|root||debian-sys-maint|localhost|CREATE TABLESPACE|G
+|root||root|localhost|CREATE TABLESPACE|G
+|root||debian-sys-maint|localhost|CREATE TEMPORARY TABLES|G
+|root||root|localhost|CREATE TEMPORARY TABLES|G
+|root||debian-sys-maint|localhost|CREATE USER|G
+|root||root|localhost|CREATE USER|G
+|root||debian-sys-maint|localhost|CREATE VIEW|G
+|root||root|localhost|CREATE VIEW|G
+|root||debian-sys-maint|localhost|DELETE|G
+|root||root|localhost|DELETE|G
+|root||debian-sys-maint|localhost|DROP|G
+|root||root|localhost|DROP|G
+|root||debian-sys-maint|localhost|EVENT|G
+|root||root|localhost|EVENT|G
+|root||debian-sys-maint|localhost|EXECUTE|G
+|root||root|localhost|EXECUTE|G
+|root||debian-sys-maint|localhost|FILE|G
+|root||root|localhost|FILE|G
+|root||debian-sys-maint|localhost|INDEX|G
+|root||root|localhost|INDEX|G
+|root||debian-sys-maint|localhost|INSERT|G
+|root||root|localhost|INSERT|G
+|root||debian-sys-maint|localhost|LOCK TABLES|G
+|root||root|localhost|LOCK TABLES|G
+|root||debian-sys-maint|localhost|PROCESS|G
+|root||root|localhost|PROCESS|G
+|root||debian-sys-maint|localhost|REFERENCES|G
+|root||root|localhost|REFERENCES|G
+|root||debian-sys-maint|localhost|RELOAD|G
+|root||root|localhost|RELOAD|G
+|root||debian-sys-maint|localhost|REPLICATION CLIENT|G
+|root||root|localhost|REPLICATION CLIENT|G
+|root||debian-sys-maint|localhost|REPLICATION SLAVE|G
+|root||root|localhost|REPLICATION SLAVE|G
+|root||debian-sys-maint|localhost|SELECT|G
+|root||root|localhost|SELECT|G
+|root||debian-sys-maint|localhost|SHOW DATABASES|G
+|root||root|localhost|SHOW DATABASES|G
+|root||debian-sys-maint|localhost|SHOW VIEW|G
+|root||root|localhost|SHOW VIEW|G
+|root||debian-sys-maint|localhost|SHUTDOWN|G
+|root||root|localhost|SHUTDOWN|G
+|root||debian-sys-maint|localhost|SUPER|G
+|root||mysql.session|localhost|SUPER|G
+|root||root|localhost|SUPER|G
+|root||debian-sys-maint|localhost|TRIGGER|G
+|root||root|localhost|TRIGGER|G
+|root||debian-sys-maint|localhost|UPDATE|G
+|root||root|localhost|UPDATE|G
+|root||debian-sys-maint|localhost|grant option|G
+|root||root|localhost|grant option|G
+24htrading.co.uk|schema||24htrading.co.uk|localhost|ALTER|G
+24htrading.co.uk|schema||24htrading.co.uk|localhost|ALTER ROUTINE|G
+24htrading.co.uk|schema||24htrading.co.uk|localhost|CREATE|G
+24htrading.co.uk|schema||24htrading.co.uk|localhost|CREATE ROUTINE|G
+24htrading.co.uk|schema||24htrading.co.uk|localhost|CREATE TEMPORARY TABLES|G
+24htrading.co.uk|schema||24htrading.co.uk|localhost|CREATE VIEW|G
+24htrading.co.uk|schema||24htrading.co.uk|localhost|DELETE|G
+24htrading.co.uk|schema||24htrading.co.uk|localhost|DROP|G
+24htrading.co.uk|schema||24htrading.co.uk|localhost|EVENT|G
+24htrading.co.uk|schema||24htrading.co.uk|localhost|EXECUTE|G
+24htrading.co.uk|schema||24htrading.co.uk|localhost|INDEX|G
+24htrading.co.uk|schema||24htrading.co.uk|localhost|INSERT|G
+24htrading.co.uk|schema||24htrading.co.uk|localhost|LOCK TABLES|G
+24htrading.co.uk|schema||24htrading.co.uk|localhost|REFERENCES|G
+24htrading.co.uk|schema||24htrading.co.uk|localhost|SELECT|G
+24htrading.co.uk|schema||24htrading.co.uk|localhost|SHOW VIEW|G
+24htrading.co.uk|schema||24htrading.co.uk|localhost|TRIGGER|G
+24htrading.co.uk|schema||24htrading.co.uk|localhost|UPDATE|G
+3anglefx|schema||3anglefx|localhost|ALTER|G
+3anglefx|schema||3anglefx|localhost|ALTER ROUTINE|G
+3anglefx|schema||3anglefx|localhost|CREATE|G
+3anglefx|schema||3anglefx|localhost|CREATE ROUTINE|G
+3anglefx|schema||3anglefx|localhost|CREATE TEMPORARY TABLES|G
+3anglefx|schema||3anglefx|localhost|CREATE VIEW|G
+3anglefx|schema||3anglefx|localhost|DELETE|G
+3anglefx|schema||3anglefx|localhost|DROP|G
+3anglefx|schema||3anglefx|localhost|EVENT|G
+3anglefx|schema||3anglefx|localhost|EXECUTE|G
+3anglefx|schema||3anglefx|localhost|INDEX|G
+3anglefx|schema||3anglefx|localhost|INSERT|G
+3anglefx|schema||3anglefx|localhost|LOCK TABLES|G
+3anglefx|schema||3anglefx|localhost|REFERENCES|G
+3anglefx|schema||3anglefx|localhost|SELECT|G
+3anglefx|schema||3anglefx|localhost|SHOW VIEW|G
+3anglefx|schema||3anglefx|localhost|TRIGGER|G
+3anglefx|schema||3anglefx|localhost|UPDATE|G
+api.imediafile.com|schema||api.imediafile.com|localhost|ALTER|G
+api.imediafile.com|schema||api.imediafile.com|localhost|ALTER ROUTINE|G
+api.imediafile.com|schema||api.imediafile.com|localhost|CREATE|G
+api.imediafile.com|schema||api.imediafile.com|localhost|CREATE ROUTINE|G
+api.imediafile.com|schema||api.imediafile.com|localhost|CREATE TEMPORARY TABLES|G
+api.imediafile.com|schema||api.imediafile.com|localhost|CREATE VIEW|G
+api.imediafile.com|schema||api.imediafile.com|localhost|DELETE|G
+api.imediafile.com|schema||api.imediafile.com|localhost|DROP|G
+api.imediafile.com|schema||api.imediafile.com|localhost|EVENT|G
+api.imediafile.com|schema||api.imediafile.com|localhost|EXECUTE|G
+api.imediafile.com|schema||api.imediafile.com|localhost|INDEX|G
+api.imediafile.com|schema||api.imediafile.com|localhost|INSERT|G
+api.imediafile.com|schema||api.imediafile.com|localhost|LOCK TABLES|G
+api.imediafile.com|schema||api.imediafile.com|localhost|REFERENCES|G
+api.imediafile.com|schema||api.imediafile.com|localhost|SELECT|G
+api.imediafile.com|schema||api.imediafile.com|localhost|SHOW VIEW|G
+api.imediafile.com|schema||api.imediafile.com|localhost|TRIGGER|G
+api.imediafile.com|schema||api.imediafile.com|localhost|UPDATE|G
+bankersmarkets.c|schema||bankersmarkets.c|localhost|ALTER|G
+bankersmarkets.c|schema||bankersmarkets.c|localhost|ALTER ROUTINE|G
+bankersmarkets.c|schema||bankersmarkets.c|localhost|CREATE|G
+bankersmarkets.c|schema||bankersmarkets.c|localhost|CREATE ROUTINE|G
+bankersmarkets.c|schema||bankersmarkets.c|localhost|CREATE TEMPORARY TABLES|G
+bankersmarkets.c|schema||bankersmarkets.c|localhost|CREATE VIEW|G
+bankersmarkets.c|schema||bankersmarkets.c|localhost|DELETE|G
+bankersmarkets.c|schema||bankersmarkets.c|localhost|DROP|G
+bankersmarkets.c|schema||bankersmarkets.c|localhost|EVENT|G
+bankersmarkets.c|schema||bankersmarkets.c|localhost|EXECUTE|G
+bankersmarkets.c|schema||bankersmarkets.c|localhost|INDEX|G
+bankersmarkets.c|schema||bankersmarkets.c|localhost|INSERT|G
+bankersmarkets.c|schema||bankersmarkets.c|localhost|LOCK TABLES|G
+bankersmarkets.c|schema||bankersmarkets.c|localhost|REFERENCES|G
+bankersmarkets.c|schema||bankersmarkets.c|localhost|SELECT|G
+bankersmarkets.c|schema||bankersmarkets.c|localhost|SHOW VIEW|G
+bankersmarkets.c|schema||bankersmarkets.c|localhost|TRIGGER|G
+bankersmarkets.c|schema||bankersmarkets.c|localhost|UPDATE|G
+brokerjet.asia|schema||brokerjet.asia|localhost|ALTER|G
+brokerjet.asia|schema||brokerjet.asia|localhost|ALTER ROUTINE|G
+brokerjet.asia|schema||brokerjet.asia|localhost|CREATE|G
+brokerjet.asia|schema||brokerjet.asia|localhost|CREATE ROUTINE|G
+brokerjet.asia|schema||brokerjet.asia|localhost|CREATE TEMPORARY TABLES|G
+brokerjet.asia|schema||brokerjet.asia|localhost|CREATE VIEW|G
+brokerjet.asia|schema||brokerjet.asia|localhost|DELETE|G
+brokerjet.asia|schema||brokerjet.asia|localhost|DROP|G
+brokerjet.asia|schema||brokerjet.asia|localhost|EVENT|G
+brokerjet.asia|schema||brokerjet.asia|localhost|EXECUTE|G
+brokerjet.asia|schema||brokerjet.asia|localhost|INDEX|G
+brokerjet.asia|schema||brokerjet.asia|localhost|INSERT|G
+brokerjet.asia|schema||brokerjet.asia|localhost|LOCK TABLES|G
+brokerjet.asia|schema||brokerjet.asia|localhost|REFERENCES|G
+brokerjet.asia|schema||brokerjet.asia|localhost|SELECT|G
+brokerjet.asia|schema||brokerjet.asia|localhost|SHOW VIEW|G
+brokerjet.asia|schema||brokerjet.asia|localhost|TRIGGER|G
+brokerjet.asia|schema||brokerjet.asia|localhost|UPDATE|G
+coinfy.io|schema||coinfy.io|localhost|ALTER|G
+coinfy.io|schema||coinfy.io|localhost|ALTER ROUTINE|G
+coinfy.io|schema||coinfy.io|localhost|CREATE|G
+coinfy.io|schema||coinfy.io|localhost|CREATE ROUTINE|G
+coinfy.io|schema||coinfy.io|localhost|CREATE TEMPORARY TABLES|G
+coinfy.io|schema||coinfy.io|localhost|CREATE VIEW|G
+coinfy.io|schema||coinfy.io|localhost|DELETE|G
+coinfy.io|schema||coinfy.io|localhost|DROP|G
+coinfy.io|schema||coinfy.io|localhost|EVENT|G
+coinfy.io|schema||coinfy.io|localhost|EXECUTE|G
+coinfy.io|schema||coinfy.io|localhost|INDEX|G
+coinfy.io|schema||coinfy.io|localhost|INSERT|G
+coinfy.io|schema||coinfy.io|localhost|LOCK TABLES|G
+coinfy.io|schema||coinfy.io|localhost|REFERENCES|G
+coinfy.io|schema||coinfy.io|localhost|SELECT|G
+coinfy.io|schema||coinfy.io|localhost|SHOW VIEW|G
+coinfy.io|schema||coinfy.io|localhost|TRIGGER|G
+coinfy.io|schema||coinfy.io|localhost|UPDATE|G
+connectpay.virarosi.com|schema||connectpay.virarosi.com|localhost|ALTER|G
+connectpay.virarosi.com|schema||connectpay.virarosi.com|localhost|ALTER ROUTINE|G
+connectpay.virarosi.com|schema||connectpay.virarosi.com|localhost|CREATE|G
+connectpay.virarosi.com|schema||connectpay.virarosi.com|localhost|CREATE ROUTINE|G
+connectpay.virarosi.com|schema||connectpay.virarosi.com|localhost|CREATE TEMPORARY TABLES|G
+connectpay.virarosi.com|schema||connectpay.virarosi.com|localhost|CREATE VIEW|G
+connectpay.virarosi.com|schema||connectpay.virarosi.com|localhost|DELETE|G
+connectpay.virarosi.com|schema||connectpay.virarosi.com|localhost|DROP|G
+connectpay.virarosi.com|schema||connectpay.virarosi.com|localhost|EVENT|G
+connectpay.virarosi.com|schema||connectpay.virarosi.com|localhost|EXECUTE|G
+connectpay.virarosi.com|schema||connectpay.virarosi.com|localhost|INDEX|G
+connectpay.virarosi.com|schema||connectpay.virarosi.com|localhost|INSERT|G
+connectpay.virarosi.com|schema||connectpay.virarosi.com|localhost|LOCK TABLES|G
+connectpay.virarosi.com|schema||connectpay.virarosi.com|localhost|REFERENCES|G
+connectpay.virarosi.com|schema||connectpay.virarosi.com|localhost|SELECT|G
+connectpay.virarosi.com|schema||connectpay.virarosi.com|localhost|SHOW VIEW|G
+connectpay.virarosi.com|schema||connectpay.virarosi.com|localhost|TRIGGER|G
+connectpay.virarosi.com|schema||connectpay.virarosi.com|localhost|UPDATE|G
+derimarkets.com|schema||derimarkets.com|localhost|ALTER|G
+derimarkets.com|schema||derimarkets.com|localhost|ALTER ROUTINE|G
+derimarkets.com|schema||derimarkets.com|localhost|CREATE|G
+derimarkets.com|schema||derimarkets.com|localhost|CREATE ROUTINE|G
+derimarkets.com|schema||derimarkets.com|localhost|CREATE TEMPORARY TABLES|G
+derimarkets.com|schema||derimarkets.com|localhost|CREATE VIEW|G
+derimarkets.com|schema||derimarkets.com|localhost|DELETE|G
+derimarkets.com|schema||derimarkets.com|localhost|DROP|G
+derimarkets.com|schema||derimarkets.com|localhost|EVENT|G
+derimarkets.com|schema||derimarkets.com|localhost|EXECUTE|G
+derimarkets.com|schema||derimarkets.com|localhost|INDEX|G
+derimarkets.com|schema||derimarkets.com|localhost|INSERT|G
+derimarkets.com|schema||derimarkets.com|localhost|LOCK TABLES|G
+derimarkets.com|schema||derimarkets.com|localhost|REFERENCES|G
+derimarkets.com|schema||derimarkets.com|localhost|SELECT|G
+derimarkets.com|schema||derimarkets.com|localhost|SHOW VIEW|G
+derimarkets.com|schema||derimarkets.com|localhost|TRIGGER|G
+derimarkets.com|schema||derimarkets.com|localhost|UPDATE|G
+dev.bankersmarkets.co.uk|schema||dev.bankersmarkets.co.uk|localhost|ALTER|G
+dev.bankersmarkets.co.uk|schema||dev.bankersmarkets.co.uk|localhost|ALTER ROUTINE|G
+dev.bankersmarkets.co.uk|schema||dev.bankersmarkets.co.uk|localhost|CREATE|G
+dev.bankersmarkets.co.uk|schema||dev.bankersmarkets.co.uk|localhost|CREATE ROUTINE|G
+dev.bankersmarkets.co.uk|schema||dev.bankersmarkets.co.uk|localhost|CREATE TEMPORARY TABLES|G
+dev.bankersmarkets.co.uk|schema||dev.bankersmarkets.co.uk|localhost|CREATE VIEW|G
+dev.bankersmarkets.co.uk|schema||dev.bankersmarkets.co.uk|localhost|DELETE|G
+dev.bankersmarkets.co.uk|schema||dev.bankersmarkets.co.uk|localhost|DROP|G
+dev.bankersmarkets.co.uk|schema||dev.bankersmarkets.co.uk|localhost|EVENT|G
+dev.bankersmarkets.co.uk|schema||dev.bankersmarkets.co.uk|localhost|EXECUTE|G
+dev.bankersmarkets.co.uk|schema||dev.bankersmarkets.co.uk|localhost|INDEX|G
+dev.bankersmarkets.co.uk|schema||dev.bankersmarkets.co.uk|localhost|INSERT|G
+dev.bankersmarkets.co.uk|schema||dev.bankersmarkets.co.uk|localhost|LOCK TABLES|G
+dev.bankersmarkets.co.uk|schema||dev.bankersmarkets.co.uk|localhost|REFERENCES|G
+dev.bankersmarkets.co.uk|schema||dev.bankersmarkets.co.uk|localhost|SELECT|G
+dev.bankersmarkets.co.uk|schema||dev.bankersmarkets.co.uk|localhost|SHOW VIEW|G
+dev.bankersmarkets.co.uk|schema||dev.bankersmarkets.co.uk|localhost|TRIGGER|G
+dev.bankersmarkets.co.uk|schema||dev.bankersmarkets.co.uk|localhost|UPDATE|G
+dev.brokerjet.asia|schema||dev.brokerjet.asia|localhost|ALTER|G
+dev.brokerjet.asia|schema||dev.brokerjet.asia|localhost|ALTER ROUTINE|G
+dev.brokerjet.asia|schema||dev.brokerjet.asia|localhost|CREATE|G
+dev.brokerjet.asia|schema||dev.brokerjet.asia|localhost|CREATE ROUTINE|G
+dev.brokerjet.asia|schema||dev.brokerjet.asia|localhost|CREATE TEMPORARY TABLES|G
+dev.brokerjet.asia|schema||dev.brokerjet.asia|localhost|CREATE VIEW|G
+dev.brokerjet.asia|schema||dev.brokerjet.asia|localhost|DELETE|G
+dev.brokerjet.asia|schema||dev.brokerjet.asia|localhost|DROP|G
+dev.brokerjet.asia|schema||dev.brokerjet.asia|localhost|EVENT|G
+dev.brokerjet.asia|schema||dev.brokerjet.asia|localhost|EXECUTE|G
+dev.brokerjet.asia|schema||dev.brokerjet.asia|localhost|INDEX|G
+dev.brokerjet.asia|schema||dev.brokerjet.asia|localhost|INSERT|G
+dev.brokerjet.asia|schema||dev.brokerjet.asia|localhost|LOCK TABLES|G
+dev.brokerjet.asia|schema||dev.brokerjet.asia|localhost|REFERENCES|G
+dev.brokerjet.asia|schema||dev.brokerjet.asia|localhost|SELECT|G
+dev.brokerjet.asia|schema||dev.brokerjet.asia|localhost|SHOW VIEW|G
+dev.brokerjet.asia|schema||dev.brokerjet.asia|localhost|TRIGGER|G
+dev.brokerjet.asia|schema||dev.brokerjet.asia|localhost|UPDATE|G
+dev.coverdealfx.com|schema||dev.coverdealfx.com|localhost|ALTER|G
+dev.coverdealfx.com|schema||dev.coverdealfx.com|localhost|ALTER ROUTINE|G
+dev.coverdealfx.com|schema||dev.coverdealfx.com|localhost|CREATE|G
+dev.coverdealfx.com|schema||dev.coverdealfx.com|localhost|CREATE ROUTINE|G
+dev.coverdealfx.com|schema||dev.coverdealfx.com|localhost|CREATE TEMPORARY TABLES|G
+dev.coverdealfx.com|schema||dev.coverdealfx.com|localhost|CREATE VIEW|G
+dev.coverdealfx.com|schema||dev.coverdealfx.com|localhost|DELETE|G
+dev.coverdealfx.com|schema||dev.coverdealfx.com|localhost|DROP|G
+dev.coverdealfx.com|schema||dev.coverdealfx.com|localhost|EVENT|G
+dev.coverdealfx.com|schema||dev.coverdealfx.com|localhost|EXECUTE|G
+dev.coverdealfx.com|schema||dev.coverdealfx.com|localhost|INDEX|G
+dev.coverdealfx.com|schema||dev.coverdealfx.com|localhost|INSERT|G
+dev.coverdealfx.com|schema||dev.coverdealfx.com|localhost|LOCK TABLES|G
+dev.coverdealfx.com|schema||dev.coverdealfx.com|localhost|REFERENCES|G
+dev.coverdealfx.com|schema||dev.coverdealfx.com|localhost|SELECT|G
+dev.coverdealfx.com|schema||dev.coverdealfx.com|localhost|SHOW VIEW|G
+dev.coverdealfx.com|schema||dev.coverdealfx.com|localhost|TRIGGER|G
+dev.coverdealfx.com|schema||dev.coverdealfx.com|localhost|UPDATE|G
+dev.gotradinglive.com|schema||dev.gotradinglive.com|localhost|ALTER|G
+dev.gotradinglive.com|schema||dev.gotradinglive.com|localhost|ALTER ROUTINE|G
+dev.gotradinglive.com|schema||dev.gotradinglive.com|localhost|CREATE|G
+dev.gotradinglive.com|schema||dev.gotradinglive.com|localhost|CREATE ROUTINE|G
+dev.gotradinglive.com|schema||dev.gotradinglive.com|localhost|CREATE TEMPORARY TABLES|G
+dev.gotradinglive.com|schema||dev.gotradinglive.com|localhost|CREATE VIEW|G
+dev.gotradinglive.com|schema||dev.gotradinglive.com|localhost|DELETE|G
+dev.gotradinglive.com|schema||dev.gotradinglive.com|localhost|DROP|G
+dev.gotradinglive.com|schema||dev.gotradinglive.com|localhost|EVENT|G
+dev.gotradinglive.com|schema||dev.gotradinglive.com|localhost|EXECUTE|G
+dev.gotradinglive.com|schema||dev.gotradinglive.com|localhost|INDEX|G
+dev.gotradinglive.com|schema||dev.gotradinglive.com|localhost|INSERT|G
+dev.gotradinglive.com|schema||dev.gotradinglive.com|localhost|LOCK TABLES|G
+dev.gotradinglive.com|schema||dev.gotradinglive.com|localhost|REFERENCES|G
+dev.gotradinglive.com|schema||dev.gotradinglive.com|localhost|SELECT|G
+dev.gotradinglive.com|schema||dev.gotradinglive.com|localhost|SHOW VIEW|G
+dev.gotradinglive.com|schema||dev.gotradinglive.com|localhost|TRIGGER|G
+dev.gotradinglive.com|schema||dev.gotradinglive.com|localhost|UPDATE|G
+didyfx.com|schema||didyfx.com|localhost|ALTER|G
+didyfx.com|schema||didyfx.com|localhost|ALTER ROUTINE|G
+didyfx.com|schema||didyfx.com|localhost|CREATE|G
+didyfx.com|schema||didyfx.com|localhost|CREATE ROUTINE|G
+didyfx.com|schema||didyfx.com|localhost|CREATE TEMPORARY TABLES|G
+didyfx.com|schema||didyfx.com|localhost|CREATE VIEW|G
+didyfx.com|schema||didyfx.com|localhost|DELETE|G
+didyfx.com|schema||didyfx.com|localhost|DROP|G
+didyfx.com|schema||didyfx.com|localhost|EVENT|G
+didyfx.com|schema||didyfx.com|localhost|EXECUTE|G
+didyfx.com|schema||didyfx.com|localhost|INDEX|G
+didyfx.com|schema||didyfx.com|localhost|INSERT|G
+didyfx.com|schema||didyfx.com|localhost|LOCK TABLES|G
+didyfx.com|schema||didyfx.com|localhost|REFERENCES|G
+didyfx.com|schema||didyfx.com|localhost|SELECT|G
+didyfx.com|schema||didyfx.com|localhost|SHOW VIEW|G
+didyfx.com|schema||didyfx.com|localhost|TRIGGER|G
+didyfx.com|schema||didyfx.com|localhost|UPDATE|G
+double.trade|schema||double.trade|localhost|ALTER|G
+double.trade|schema||double.trade|localhost|ALTER ROUTINE|G
+double.trade|schema||double.trade|localhost|CREATE|G
+double.trade|schema||double.trade|localhost|CREATE ROUTINE|G
+double.trade|schema||double.trade|localhost|CREATE TEMPORARY TABLES|G
+double.trade|schema||double.trade|localhost|CREATE VIEW|G
+double.trade|schema||double.trade|localhost|DELETE|G
+double.trade|schema||double.trade|localhost|DROP|G
+double.trade|schema||double.trade|localhost|EVENT|G
+double.trade|schema||double.trade|localhost|EXECUTE|G
+double.trade|schema||double.trade|localhost|INDEX|G
+double.trade|schema||double.trade|localhost|INSERT|G
+double.trade|schema||double.trade|localhost|LOCK TABLES|G
+double.trade|schema||double.trade|localhost|REFERENCES|G
+double.trade|schema||double.trade|localhost|SELECT|G
+double.trade|schema||double.trade|localhost|SHOW VIEW|G
+double.trade|schema||double.trade|localhost|TRIGGER|G
+double.trade|schema||double.trade|localhost|UPDATE|G
+easyforex.pro|schema||easyforex.pro|localhost|ALTER|G
+easyforex.pro|schema||easyforex.pro|localhost|ALTER ROUTINE|G
+easyforex.pro|schema||easyforex.pro|localhost|CREATE|G
+easyforex.pro|schema||easyforex.pro|localhost|CREATE ROUTINE|G
+easyforex.pro|schema||easyforex.pro|localhost|CREATE TEMPORARY TABLES|G
+easyforex.pro|schema||easyforex.pro|localhost|CREATE VIEW|G
+easyforex.pro|schema||easyforex.pro|localhost|DELETE|G
+easyforex.pro|schema||easyforex.pro|localhost|DROP|G
+easyforex.pro|schema||easyforex.pro|localhost|EVENT|G
+easyforex.pro|schema||easyforex.pro|localhost|EXECUTE|G
+easyforex.pro|schema||easyforex.pro|localhost|INDEX|G
+easyforex.pro|schema||easyforex.pro|localhost|INSERT|G
+easyforex.pro|schema||easyforex.pro|localhost|LOCK TABLES|G
+easyforex.pro|schema||easyforex.pro|localhost|REFERENCES|G
+easyforex.pro|schema||easyforex.pro|localhost|SELECT|G
+easyforex.pro|schema||easyforex.pro|localhost|SHOW VIEW|G
+easyforex.pro|schema||easyforex.pro|localhost|TRIGGER|G
+easyforex.pro|schema||easyforex.pro|localhost|UPDATE|G
+getrichjournal|schema||getrichjournal|localhost|ALTER|G
+getrichjournal|schema||getrichjournal|localhost|ALTER ROUTINE|G
+getrichjournal|schema||getrichjournal|localhost|CREATE|G
+getrichjournal|schema||getrichjournal|localhost|CREATE ROUTINE|G
+getrichjournal|schema||getrichjournal|localhost|CREATE TEMPORARY TABLES|G
+getrichjournal|schema||getrichjournal|localhost|CREATE VIEW|G
+getrichjournal|schema||getrichjournal|localhost|DELETE|G
+getrichjournal|schema||getrichjournal|localhost|DROP|G
+getrichjournal|schema||getrichjournal|localhost|EVENT|G
+getrichjournal|schema||getrichjournal|localhost|EXECUTE|G
+getrichjournal|schema||getrichjournal|localhost|INDEX|G
+getrichjournal|schema||getrichjournal|localhost|INSERT|G
+getrichjournal|schema||getrichjournal|localhost|LOCK TABLES|G
+getrichjournal|schema||getrichjournal|localhost|REFERENCES|G
+getrichjournal|schema||getrichjournal|localhost|SELECT|G
+getrichjournal|schema||getrichjournal|localhost|SHOW VIEW|G
+getrichjournal|schema||getrichjournal|localhost|TRIGGER|G
+getrichjournal|schema||getrichjournal|localhost|UPDATE|G
+gotradinglive|schema||gotradinglive|localhost|ALTER|G
+gotradinglive|schema||gotradinglive|localhost|ALTER ROUTINE|G
+gotradinglive|schema||gotradinglive|localhost|CREATE|G
+gotradinglive|schema||gotradinglive|localhost|CREATE ROUTINE|G
+gotradinglive|schema||gotradinglive|localhost|CREATE TEMPORARY TABLES|G
+gotradinglive|schema||gotradinglive|localhost|CREATE VIEW|G
+gotradinglive|schema||gotradinglive|localhost|DELETE|G
+gotradinglive|schema||gotradinglive|localhost|DROP|G
+gotradinglive|schema||gotradinglive|localhost|EVENT|G
+gotradinglive|schema||gotradinglive|localhost|EXECUTE|G
+gotradinglive|schema||gotradinglive|localhost|INDEX|G
+gotradinglive|schema||gotradinglive|localhost|INSERT|G
+gotradinglive|schema||gotradinglive|localhost|LOCK TABLES|G
+gotradinglive|schema||gotradinglive|localhost|REFERENCES|G
+gotradinglive|schema||gotradinglive|localhost|SELECT|G
+gotradinglive|schema||gotradinglive|localhost|SHOW VIEW|G
+gotradinglive|schema||gotradinglive|localhost|TRIGGER|G
+gotradinglive|schema||gotradinglive|localhost|UPDATE|G
+investicnisoutez.cz|schema||investicnisoutez.cz|localhost|ALTER|G
+investicnisoutez.cz|schema||investicnisoutez.cz|localhost|ALTER ROUTINE|G
+investicnisoutez.cz|schema||investicnisoutez.cz|localhost|CREATE|G
+investicnisoutez.cz|schema||investicnisoutez.cz|localhost|CREATE ROUTINE|G
+investicnisoutez.cz|schema||investicnisoutez.cz|localhost|CREATE TEMPORARY TABLES|G
+investicnisoutez.cz|schema||investicnisoutez.cz|localhost|CREATE VIEW|G
+investicnisoutez.cz|schema||investicnisoutez.cz|localhost|DELETE|G
+investicnisoutez.cz|schema||investicnisoutez.cz|localhost|DROP|G
+investicnisoutez.cz|schema||investicnisoutez.cz|localhost|EVENT|G
+investicnisoutez.cz|schema||investicnisoutez.cz|localhost|EXECUTE|G
+investicnisoutez.cz|schema||investicnisoutez.cz|localhost|INDEX|G
+investicnisoutez.cz|schema||investicnisoutez.cz|localhost|INSERT|G
+investicnisoutez.cz|schema||investicnisoutez.cz|localhost|LOCK TABLES|G
+investicnisoutez.cz|schema||investicnisoutez.cz|localhost|REFERENCES|G
+investicnisoutez.cz|schema||investicnisoutez.cz|localhost|SELECT|G
+investicnisoutez.cz|schema||investicnisoutez.cz|localhost|SHOW VIEW|G
+investicnisoutez.cz|schema||investicnisoutez.cz|localhost|TRIGGER|G
+investicnisoutez.cz|schema||investicnisoutez.cz|localhost|UPDATE|G
+key-marketing.eu|schema||key-marketing.eu|localhost|ALTER|G
+key-marketing.eu|schema||key-marketing.eu|localhost|ALTER ROUTINE|G
+key-marketing.eu|schema||key-marketing.eu|localhost|CREATE|G
+key-marketing.eu|schema||key-marketing.eu|localhost|CREATE ROUTINE|G
+key-marketing.eu|schema||key-marketing.eu|localhost|CREATE TEMPORARY TABLES|G
+key-marketing.eu|schema||key-marketing.eu|localhost|CREATE VIEW|G
+key-marketing.eu|schema||key-marketing.eu|localhost|DELETE|G
+key-marketing.eu|schema||key-marketing.eu|localhost|DROP|G
+key-marketing.eu|schema||key-marketing.eu|localhost|EVENT|G
+key-marketing.eu|schema||key-marketing.eu|localhost|EXECUTE|G
+key-marketing.eu|schema||key-marketing.eu|localhost|INDEX|G
+key-marketing.eu|schema||key-marketing.eu|localhost|INSERT|G
+key-marketing.eu|schema||key-marketing.eu|localhost|LOCK TABLES|G
+key-marketing.eu|schema||key-marketing.eu|localhost|REFERENCES|G
+key-marketing.eu|schema||key-marketing.eu|localhost|SELECT|G
+key-marketing.eu|schema||key-marketing.eu|localhost|SHOW VIEW|G
+key-marketing.eu|schema||key-marketing.eu|localhost|TRIGGER|G
+key-marketing.eu|schema||key-marketing.eu|localhost|UPDATE|G
+landing|schema||landing|localhost|ALTER|G
+landing|schema||landing|localhost|ALTER ROUTINE|G
+landing|schema||landing|localhost|CREATE|G
+landing|schema||landing|localhost|CREATE ROUTINE|G
+landing|schema||landing|localhost|CREATE TEMPORARY TABLES|G
+landing|schema||landing|localhost|CREATE VIEW|G
+landing|schema||landing|localhost|DELETE|G
+landing|schema||landing|localhost|DROP|G
+landing|schema||landing|localhost|EVENT|G
+landing|schema||landing|localhost|EXECUTE|G
+landing|schema||landing|localhost|INDEX|G
+landing|schema||landing|localhost|INSERT|G
+landing|schema||landing|localhost|LOCK TABLES|G
+landing|schema||landing|localhost|REFERENCES|G
+landing|schema||landing|localhost|SELECT|G
+landing|schema||landing|localhost|SHOW VIEW|G
+landing|schema||landing|localhost|TRIGGER|G
+landing|schema||landing|localhost|UPDATE|G
+landing.dukaspro|schema||landing.dukaspro|localhost|ALTER|G
+landing.dukaspro|schema||landing.dukaspro|localhost|ALTER ROUTINE|G
+landing.dukaspro|schema||landing.dukaspro|localhost|CREATE|G
+landing.dukaspro|schema||landing.dukaspro|localhost|CREATE ROUTINE|G
+landing.dukaspro|schema||landing.dukaspro|localhost|CREATE TEMPORARY TABLES|G
+landing.dukaspro|schema||landing.dukaspro|localhost|CREATE VIEW|G
+landing.dukaspro|schema||landing.dukaspro|localhost|DELETE|G
+landing.dukaspro|schema||landing.dukaspro|localhost|DROP|G
+landing.dukaspro|schema||landing.dukaspro|localhost|EVENT|G
+landing.dukaspro|schema||landing.dukaspro|localhost|EXECUTE|G
+landing.dukaspro|schema||landing.dukaspro|localhost|INDEX|G
+landing.dukaspro|schema||landing.dukaspro|localhost|INSERT|G
+landing.dukaspro|schema||landing.dukaspro|localhost|LOCK TABLES|G
+landing.dukaspro|schema||landing.dukaspro|localhost|REFERENCES|G
+landing.dukaspro|schema||landing.dukaspro|localhost|SELECT|G
+landing.dukaspro|schema||landing.dukaspro|localhost|SHOW VIEW|G
+landing.dukaspro|schema||landing.dukaspro|localhost|TRIGGER|G
+landing.dukaspro|schema||landing.dukaspro|localhost|UPDATE|G
+landing.nelsonfx|schema||landing.nelsonfx|localhost|ALTER|G
+landing.nelsonfx|schema||landing.nelsonfx|localhost|ALTER ROUTINE|G
+landing.nelsonfx|schema||landing.nelsonfx|localhost|CREATE|G
+landing.nelsonfx|schema||landing.nelsonfx|localhost|CREATE ROUTINE|G
+landing.nelsonfx|schema||landing.nelsonfx|localhost|CREATE TEMPORARY TABLES|G
+landing.nelsonfx|schema||landing.nelsonfx|localhost|CREATE VIEW|G
+landing.nelsonfx|schema||landing.nelsonfx|localhost|DELETE|G
+landing.nelsonfx|schema||landing.nelsonfx|localhost|DROP|G
+landing.nelsonfx|schema||landing.nelsonfx|localhost|EVENT|G
+landing.nelsonfx|schema||landing.nelsonfx|localhost|EXECUTE|G
+landing.nelsonfx|schema||landing.nelsonfx|localhost|INDEX|G
+landing.nelsonfx|schema||landing.nelsonfx|localhost|INSERT|G
+landing.nelsonfx|schema||landing.nelsonfx|localhost|LOCK TABLES|G
+landing.nelsonfx|schema||landing.nelsonfx|localhost|REFERENCES|G
+landing.nelsonfx|schema||landing.nelsonfx|localhost|SELECT|G
+landing.nelsonfx|schema||landing.nelsonfx|localhost|SHOW VIEW|G
+landing.nelsonfx|schema||landing.nelsonfx|localhost|TRIGGER|G
+landing.nelsonfx|schema||landing.nelsonfx|localhost|UPDATE|G
+landing.velmarke|schema||landing.velmarke|localhost|ALTER|G
+landing.velmarke|schema||landing.velmarke|localhost|ALTER ROUTINE|G
+landing.velmarke|schema||landing.velmarke|localhost|CREATE|G
+landing.velmarke|schema||landing.velmarke|localhost|CREATE ROUTINE|G
+landing.velmarke|schema||landing.velmarke|localhost|CREATE TEMPORARY TABLES|G
+landing.velmarke|schema||landing.velmarke|localhost|CREATE VIEW|G
+landing.velmarke|schema||landing.velmarke|localhost|DELETE|G
+landing.velmarke|schema||landing.velmarke|localhost|DROP|G
+landing.velmarke|schema||landing.velmarke|localhost|EVENT|G
+landing.velmarke|schema||landing.velmarke|localhost|EXECUTE|G
+landing.velmarke|schema||landing.velmarke|localhost|INDEX|G
+landing.velmarke|schema||landing.velmarke|localhost|INSERT|G
+landing.velmarke|schema||landing.velmarke|localhost|LOCK TABLES|G
+landing.velmarke|schema||landing.velmarke|localhost|REFERENCES|G
+landing.velmarke|schema||landing.velmarke|localhost|SELECT|G
+landing.velmarke|schema||landing.velmarke|localhost|SHOW VIEW|G
+landing.velmarke|schema||landing.velmarke|localhost|TRIGGER|G
+landing.velmarke|schema||landing.velmarke|localhost|UPDATE|G
+mkortanek|schema||mkortanek|localhost|ALTER|G
+mkortanek|schema||mkortanek|localhost|ALTER ROUTINE|G
+mkortanek|schema||mkortanek|localhost|CREATE|G
+mkortanek|schema||mkortanek|localhost|CREATE ROUTINE|G
+mkortanek|schema||mkortanek|localhost|CREATE TEMPORARY TABLES|G
+mkortanek|schema||mkortanek|localhost|CREATE VIEW|G
+mkortanek|schema||mkortanek|localhost|DELETE|G
+mkortanek|schema||mkortanek|localhost|DROP|G
+mkortanek|schema||mkortanek|localhost|EVENT|G
+mkortanek|schema||mkortanek|localhost|EXECUTE|G
+mkortanek|schema||mkortanek|localhost|INDEX|G
+mkortanek|schema||mkortanek|localhost|INSERT|G
+mkortanek|schema||mkortanek|localhost|LOCK TABLES|G
+mkortanek|schema||mkortanek|localhost|REFERENCES|G
+mkortanek|schema||mkortanek|localhost|SELECT|G
+mkortanek|schema||mkortanek|localhost|SHOW VIEW|G
+mkortanek|schema||mkortanek|localhost|TRIGGER|G
+mkortanek|schema||mkortanek|localhost|UPDATE|G
+nelsonfx.com|schema||nelsonfx.com|localhost|ALTER|G
+nelsonfx.com|schema||nelsonfx.com|localhost|ALTER ROUTINE|G
+nelsonfx.com|schema||nelsonfx.com|localhost|CREATE|G
+nelsonfx.com|schema||nelsonfx.com|localhost|CREATE ROUTINE|G
+nelsonfx.com|schema||nelsonfx.com|localhost|CREATE TEMPORARY TABLES|G
+nelsonfx.com|schema||nelsonfx.com|localhost|CREATE VIEW|G
+nelsonfx.com|schema||nelsonfx.com|localhost|DELETE|G
+nelsonfx.com|schema||nelsonfx.com|localhost|DROP|G
+nelsonfx.com|schema||nelsonfx.com|localhost|EVENT|G
+nelsonfx.com|schema||nelsonfx.com|localhost|EXECUTE|G
+nelsonfx.com|schema||nelsonfx.com|localhost|INDEX|G
+nelsonfx.com|schema||nelsonfx.com|localhost|INSERT|G
+nelsonfx.com|schema||nelsonfx.com|localhost|LOCK TABLES|G
+nelsonfx.com|schema||nelsonfx.com|localhost|REFERENCES|G
+nelsonfx.com|schema||nelsonfx.com|localhost|SELECT|G
+nelsonfx.com|schema||nelsonfx.com|localhost|SHOW VIEW|G
+nelsonfx.com|schema||nelsonfx.com|localhost|TRIGGER|G
+nelsonfx.com|schema||nelsonfx.com|localhost|UPDATE|G
+performance_schema|schema||mysql.session|localhost|SELECT|G
+phpmyadmin|schema||phpmyadmin|localhost|ALTER|G
+phpmyadmin|schema||phpmyadmin|localhost|ALTER ROUTINE|G
+phpmyadmin|schema||phpmyadmin|localhost|CREATE|G
+phpmyadmin|schema||phpmyadmin|localhost|CREATE ROUTINE|G
+phpmyadmin|schema||phpmyadmin|localhost|CREATE TEMPORARY TABLES|G
+phpmyadmin|schema||phpmyadmin|localhost|CREATE VIEW|G
+phpmyadmin|schema||phpmyadmin|localhost|DELETE|G
+phpmyadmin|schema||phpmyadmin|localhost|DROP|G
+phpmyadmin|schema||phpmyadmin|localhost|EVENT|G
+phpmyadmin|schema||phpmyadmin|localhost|EXECUTE|G
+phpmyadmin|schema||phpmyadmin|localhost|INDEX|G
+phpmyadmin|schema||phpmyadmin|localhost|INSERT|G
+phpmyadmin|schema||phpmyadmin|localhost|LOCK TABLES|G
+phpmyadmin|schema||phpmyadmin|localhost|REFERENCES|G
+phpmyadmin|schema||phpmyadmin|localhost|SELECT|G
+phpmyadmin|schema||phpmyadmin|localhost|SHOW VIEW|G
+phpmyadmin|schema||phpmyadmin|localhost|TRIGGER|G
+phpmyadmin|schema||phpmyadmin|localhost|UPDATE|G
+pineal.cz|schema||pineal.cz|localhost|ALTER|G
+pineal.cz|schema||pineal.cz|localhost|ALTER ROUTINE|G
+pineal.cz|schema||pineal.cz|localhost|CREATE|G
+pineal.cz|schema||pineal.cz|localhost|CREATE ROUTINE|G
+pineal.cz|schema||pineal.cz|localhost|CREATE TEMPORARY TABLES|G
+pineal.cz|schema||pineal.cz|localhost|CREATE VIEW|G
+pineal.cz|schema||pineal.cz|localhost|DELETE|G
+pineal.cz|schema||pineal.cz|localhost|DROP|G
+pineal.cz|schema||pineal.cz|localhost|EVENT|G
+pineal.cz|schema||pineal.cz|localhost|EXECUTE|G
+pineal.cz|schema||pineal.cz|localhost|INDEX|G
+pineal.cz|schema||pineal.cz|localhost|INSERT|G
+pineal.cz|schema||pineal.cz|localhost|LOCK TABLES|G
+pineal.cz|schema||pineal.cz|localhost|REFERENCES|G
+pineal.cz|schema||pineal.cz|localhost|SELECT|G
+pineal.cz|schema||pineal.cz|localhost|SHOW VIEW|G
+pineal.cz|schema||pineal.cz|localhost|TRIGGER|G
+pineal.cz|schema||pineal.cz|localhost|UPDATE|G
+rates|schema||rates|localhost|ALTER|G
+rates|schema||rates|localhost|ALTER ROUTINE|G
+rates|schema||rates|localhost|CREATE|G
+rates|schema||rates|localhost|CREATE ROUTINE|G
+rates|schema||rates|localhost|CREATE TEMPORARY TABLES|G
+rates|schema||rates|localhost|CREATE VIEW|G
+rates|schema||rates|localhost|DELETE|G
+rates|schema||rates|localhost|DROP|G
+rates|schema||rates|localhost|EVENT|G
+rates|schema||rates|localhost|EXECUTE|G
+rates|schema||rates|localhost|INDEX|G
+rates|schema||rates|localhost|INSERT|G
+rates|schema||rates|localhost|LOCK TABLES|G
+rates|schema||rates|localhost|REFERENCES|G
+rates|schema||rates|localhost|SELECT|G
+rates|schema||rates|localhost|SHOW VIEW|G
+rates|schema||rates|localhost|TRIGGER|G
+rates|schema||rates|localhost|UPDATE|G
+start2bpro.com|schema||start2bpro.com|localhost|ALTER|G
+start2bpro.com|schema||start2bpro.com|localhost|ALTER ROUTINE|G
+start2bpro.com|schema||start2bpro.com|localhost|CREATE|G
+start2bpro.com|schema||start2bpro.com|localhost|CREATE ROUTINE|G
+start2bpro.com|schema||start2bpro.com|localhost|CREATE TEMPORARY TABLES|G
+start2bpro.com|schema||start2bpro.com|localhost|CREATE VIEW|G
+start2bpro.com|schema||start2bpro.com|localhost|DELETE|G
+start2bpro.com|schema||start2bpro.com|localhost|DROP|G
+start2bpro.com|schema||start2bpro.com|localhost|EVENT|G
+start2bpro.com|schema||start2bpro.com|localhost|EXECUTE|G
+start2bpro.com|schema||start2bpro.com|localhost|INDEX|G
+start2bpro.com|schema||start2bpro.com|localhost|INSERT|G
+start2bpro.com|schema||start2bpro.com|localhost|LOCK TABLES|G
+start2bpro.com|schema||start2bpro.com|localhost|REFERENCES|G
+start2bpro.com|schema||start2bpro.com|localhost|SELECT|G
+start2bpro.com|schema||start2bpro.com|localhost|SHOW VIEW|G
+start2bpro.com|schema||start2bpro.com|localhost|TRIGGER|G
+start2bpro.com|schema||start2bpro.com|localhost|UPDATE|G
+sys|schema||mysql.sys|localhost|TRIGGER|G
+top10|schema||top10|localhost|ALTER|G
+top10|schema||top10|localhost|ALTER ROUTINE|G
+top10|schema||top10|localhost|CREATE|G
+top10|schema||top10|localhost|CREATE ROUTINE|G
+top10|schema||top10|localhost|CREATE TEMPORARY TABLES|G
+top10|schema||top10|localhost|CREATE VIEW|G
+top10|schema||top10|localhost|DELETE|G
+top10|schema||top10|localhost|DROP|G
+top10|schema||top10|localhost|EVENT|G
+top10|schema||top10|localhost|EXECUTE|G
+top10|schema||top10|localhost|INDEX|G
+top10|schema||top10|localhost|INSERT|G
+top10|schema||top10|localhost|LOCK TABLES|G
+top10|schema||top10|localhost|REFERENCES|G
+top10|schema||top10|localhost|SELECT|G
+top10|schema||top10|localhost|SHOW VIEW|G
+top10|schema||top10|localhost|TRIGGER|G
+top10|schema||top10|localhost|UPDATE|G
+traderkryptomeny|schema||traderkryptomeny|localhost|ALTER|G
+traderkryptomeny|schema||traderkryptomeny|localhost|ALTER ROUTINE|G
+traderkryptomeny|schema||traderkryptomeny|localhost|CREATE|G
+traderkryptomeny|schema||traderkryptomeny|localhost|CREATE ROUTINE|G
+traderkryptomeny|schema||traderkryptomeny|localhost|CREATE TEMPORARY TABLES|G
+traderkryptomeny|schema||traderkryptomeny|localhost|CREATE VIEW|G
+traderkryptomeny|schema||traderkryptomeny|localhost|DELETE|G
+traderkryptomeny|schema||traderkryptomeny|localhost|DROP|G
+traderkryptomeny|schema||traderkryptomeny|localhost|EVENT|G
+traderkryptomeny|schema||traderkryptomeny|localhost|EXECUTE|G
+traderkryptomeny|schema||traderkryptomeny|localhost|INDEX|G
+traderkryptomeny|schema||traderkryptomeny|localhost|INSERT|G
+traderkryptomeny|schema||traderkryptomeny|localhost|LOCK TABLES|G
+traderkryptomeny|schema||traderkryptomeny|localhost|REFERENCES|G
+traderkryptomeny|schema||traderkryptomeny|localhost|SELECT|G
+traderkryptomeny|schema||traderkryptomeny|localhost|SHOW VIEW|G
+traderkryptomeny|schema||traderkryptomeny|localhost|TRIGGER|G
+traderkryptomeny|schema||traderkryptomeny|localhost|UPDATE|G
+triangle|schema||triangle|localhost|ALTER|G
+triangle|schema||triangle|localhost|ALTER ROUTINE|G
+triangle|schema||triangle|localhost|CREATE|G
+triangle|schema||triangle|localhost|CREATE ROUTINE|G
+triangle|schema||triangle|localhost|CREATE TEMPORARY TABLES|G
+triangle|schema||triangle|localhost|CREATE VIEW|G
+triangle|schema||triangle|localhost|DELETE|G
+triangle|schema||triangle|localhost|DROP|G
+triangle|schema||triangle|localhost|EVENT|G
+triangle|schema||triangle|localhost|EXECUTE|G
+triangle|schema||triangle|localhost|INDEX|G
+triangle|schema||triangle|localhost|INSERT|G
+triangle|schema||triangle|localhost|LOCK TABLES|G
+triangle|schema||triangle|localhost|REFERENCES|G
+triangle|schema||triangle|localhost|SELECT|G
+triangle|schema||triangle|localhost|SHOW VIEW|G
+triangle|schema||triangle|localhost|TRIGGER|G
+triangle|schema||triangle|localhost|UPDATE|G
+trianglemarkets|schema||trianglemarkets|localhost|ALTER|G
+trianglemarkets|schema||trianglemarkets|localhost|ALTER ROUTINE|G
+trianglemarkets|schema||trianglemarkets|localhost|CREATE|G
+trianglemarkets|schema||trianglemarkets|localhost|CREATE ROUTINE|G
+trianglemarkets|schema||trianglemarkets|localhost|CREATE TEMPORARY TABLES|G
+trianglemarkets|schema||trianglemarkets|localhost|CREATE VIEW|G
+trianglemarkets|schema||trianglemarkets|localhost|DELETE|G
+trianglemarkets|schema||trianglemarkets|localhost|DROP|G
+trianglemarkets|schema||trianglemarkets|localhost|EVENT|G
+trianglemarkets|schema||trianglemarkets|localhost|EXECUTE|G
+trianglemarkets|schema||trianglemarkets|localhost|INDEX|G
+trianglemarkets|schema||trianglemarkets|localhost|INSERT|G
+trianglemarkets|schema||trianglemarkets|localhost|LOCK TABLES|G
+trianglemarkets|schema||trianglemarkets|localhost|REFERENCES|G
+trianglemarkets|schema||trianglemarkets|localhost|SELECT|G
+trianglemarkets|schema||trianglemarkets|localhost|SHOW VIEW|G
+trianglemarkets|schema||trianglemarkets|localhost|TRIGGER|G
+trianglemarkets|schema||trianglemarkets|localhost|UPDATE|G
+velmarket.com|schema||velmarket.com|localhost|ALTER|G
+velmarket.com|schema||velmarket.com|localhost|ALTER ROUTINE|G
+velmarket.com|schema||velmarket.com|localhost|CREATE|G
+velmarket.com|schema||velmarket.com|localhost|CREATE ROUTINE|G
+velmarket.com|schema||velmarket.com|localhost|CREATE TEMPORARY TABLES|G
+velmarket.com|schema||velmarket.com|localhost|CREATE VIEW|G
+velmarket.com|schema||velmarket.com|localhost|DELETE|G
+velmarket.com|schema||velmarket.com|localhost|DROP|G
+velmarket.com|schema||velmarket.com|localhost|EVENT|G
+velmarket.com|schema||velmarket.com|localhost|EXECUTE|G
+velmarket.com|schema||velmarket.com|localhost|INDEX|G
+velmarket.com|schema||velmarket.com|localhost|INSERT|G
+velmarket.com|schema||velmarket.com|localhost|LOCK TABLES|G
+velmarket.com|schema||velmarket.com|localhost|REFERENCES|G
+velmarket.com|schema||velmarket.com|localhost|SELECT|G
+velmarket.com|schema||velmarket.com|localhost|SHOW VIEW|G
+velmarket.com|schema||velmarket.com|localhost|TRIGGER|G
+velmarket.com|schema||velmarket.com|localhost|UPDATE|G
+versat.capital|schema||versat.capital|localhost|ALTER|G
+versat.capital|schema||versat.capital|localhost|ALTER ROUTINE|G
+versat.capital|schema||versat.capital|localhost|CREATE|G
+versat.capital|schema||versat.capital|localhost|CREATE ROUTINE|G
+versat.capital|schema||versat.capital|localhost|CREATE TEMPORARY TABLES|G
+versat.capital|schema||versat.capital|localhost|CREATE VIEW|G
+versat.capital|schema||versat.capital|localhost|DELETE|G
+versat.capital|schema||versat.capital|localhost|DROP|G
+versat.capital|schema||versat.capital|localhost|EVENT|G
+versat.capital|schema||versat.capital|localhost|EXECUTE|G
+versat.capital|schema||versat.capital|localhost|INDEX|G
+versat.capital|schema||versat.capital|localhost|INSERT|G
+versat.capital|schema||versat.capital|localhost|LOCK TABLES|G
+versat.capital|schema||versat.capital|localhost|REFERENCES|G
+versat.capital|schema||versat.capital|localhost|SELECT|G
+versat.capital|schema||versat.capital|localhost|SHOW VIEW|G
+versat.capital|schema||versat.capital|localhost|TRIGGER|G
+versat.capital|schema||versat.capital|localhost|UPDATE|G
+voicespin|schema||voicespin|localhost|ALTER|G
+voicespin|schema||voicespin|localhost|ALTER ROUTINE|G
+voicespin|schema||voicespin|localhost|CREATE|G
+voicespin|schema||voicespin|localhost|CREATE ROUTINE|G
+voicespin|schema||voicespin|localhost|CREATE TEMPORARY TABLES|G
+voicespin|schema||voicespin|localhost|CREATE VIEW|G
+voicespin|schema||voicespin|localhost|DELETE|G
+voicespin|schema||voicespin|localhost|DROP|G
+voicespin|schema||voicespin|localhost|EVENT|G
+voicespin|schema||voicespin|localhost|EXECUTE|G
+voicespin|schema||voicespin|localhost|INDEX|G
+voicespin|schema||voicespin|localhost|INSERT|G
+voicespin|schema||voicespin|localhost|LOCK TABLES|G
+voicespin|schema||voicespin|localhost|REFERENCES|G
+voicespin|schema||voicespin|localhost|SELECT|G
+voicespin|schema||voicespin|localhost|SHOW VIEW|G
+voicespin|schema||voicespin|localhost|TRIGGER|G
+voicespin|schema||voicespin|localhost|UPDATE|G</Grants>
+      <ServerVersion>5.7.33</ServerVersion>
+    </root>
+    <collation id="2" parent="1" name="armscii8_bin">
+      <Charset>armscii8</Charset>
+    </collation>
+    <collation id="3" parent="1" name="armscii8_general_ci">
+      <Charset>armscii8</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="4" parent="1" name="ascii_bin">
+      <Charset>ascii</Charset>
+    </collation>
+    <collation id="5" parent="1" name="ascii_general_ci">
+      <Charset>ascii</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="6" parent="1" name="big5_bin">
+      <Charset>big5</Charset>
+    </collation>
+    <collation id="7" parent="1" name="big5_chinese_ci">
+      <Charset>big5</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="8" parent="1" name="binary">
+      <Charset>binary</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="9" parent="1" name="cp1250_bin">
+      <Charset>cp1250</Charset>
+    </collation>
+    <collation id="10" parent="1" name="cp1250_croatian_ci">
+      <Charset>cp1250</Charset>
+    </collation>
+    <collation id="11" parent="1" name="cp1250_czech_cs">
+      <Charset>cp1250</Charset>
+    </collation>
+    <collation id="12" parent="1" name="cp1250_general_ci">
+      <Charset>cp1250</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="13" parent="1" name="cp1250_polish_ci">
+      <Charset>cp1250</Charset>
+    </collation>
+    <collation id="14" parent="1" name="cp1251_bin">
+      <Charset>cp1251</Charset>
+    </collation>
+    <collation id="15" parent="1" name="cp1251_bulgarian_ci">
+      <Charset>cp1251</Charset>
+    </collation>
+    <collation id="16" parent="1" name="cp1251_general_ci">
+      <Charset>cp1251</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="17" parent="1" name="cp1251_general_cs">
+      <Charset>cp1251</Charset>
+    </collation>
+    <collation id="18" parent="1" name="cp1251_ukrainian_ci">
+      <Charset>cp1251</Charset>
+    </collation>
+    <collation id="19" parent="1" name="cp1256_bin">
+      <Charset>cp1256</Charset>
+    </collation>
+    <collation id="20" parent="1" name="cp1256_general_ci">
+      <Charset>cp1256</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="21" parent="1" name="cp1257_bin">
+      <Charset>cp1257</Charset>
+    </collation>
+    <collation id="22" parent="1" name="cp1257_general_ci">
+      <Charset>cp1257</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="23" parent="1" name="cp1257_lithuanian_ci">
+      <Charset>cp1257</Charset>
+    </collation>
+    <collation id="24" parent="1" name="cp850_bin">
+      <Charset>cp850</Charset>
+    </collation>
+    <collation id="25" parent="1" name="cp850_general_ci">
+      <Charset>cp850</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="26" parent="1" name="cp852_bin">
+      <Charset>cp852</Charset>
+    </collation>
+    <collation id="27" parent="1" name="cp852_general_ci">
+      <Charset>cp852</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="28" parent="1" name="cp866_bin">
+      <Charset>cp866</Charset>
+    </collation>
+    <collation id="29" parent="1" name="cp866_general_ci">
+      <Charset>cp866</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="30" parent="1" name="cp932_bin">
+      <Charset>cp932</Charset>
+    </collation>
+    <collation id="31" parent="1" name="cp932_japanese_ci">
+      <Charset>cp932</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="32" parent="1" name="dec8_bin">
+      <Charset>dec8</Charset>
+    </collation>
+    <collation id="33" parent="1" name="dec8_swedish_ci">
+      <Charset>dec8</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="34" parent="1" name="eucjpms_bin">
+      <Charset>eucjpms</Charset>
+    </collation>
+    <collation id="35" parent="1" name="eucjpms_japanese_ci">
+      <Charset>eucjpms</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="36" parent="1" name="euckr_bin">
+      <Charset>euckr</Charset>
+    </collation>
+    <collation id="37" parent="1" name="euckr_korean_ci">
+      <Charset>euckr</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="38" parent="1" name="gb18030_bin">
+      <Charset>gb18030</Charset>
+    </collation>
+    <collation id="39" parent="1" name="gb18030_chinese_ci">
+      <Charset>gb18030</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="40" parent="1" name="gb18030_unicode_520_ci">
+      <Charset>gb18030</Charset>
+    </collation>
+    <collation id="41" parent="1" name="gb2312_bin">
+      <Charset>gb2312</Charset>
+    </collation>
+    <collation id="42" parent="1" name="gb2312_chinese_ci">
+      <Charset>gb2312</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="43" parent="1" name="gbk_bin">
+      <Charset>gbk</Charset>
+    </collation>
+    <collation id="44" parent="1" name="gbk_chinese_ci">
+      <Charset>gbk</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="45" parent="1" name="geostd8_bin">
+      <Charset>geostd8</Charset>
+    </collation>
+    <collation id="46" parent="1" name="geostd8_general_ci">
+      <Charset>geostd8</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="47" parent="1" name="greek_bin">
+      <Charset>greek</Charset>
+    </collation>
+    <collation id="48" parent="1" name="greek_general_ci">
+      <Charset>greek</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="49" parent="1" name="hebrew_bin">
+      <Charset>hebrew</Charset>
+    </collation>
+    <collation id="50" parent="1" name="hebrew_general_ci">
+      <Charset>hebrew</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="51" parent="1" name="hp8_bin">
+      <Charset>hp8</Charset>
+    </collation>
+    <collation id="52" parent="1" name="hp8_english_ci">
+      <Charset>hp8</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="53" parent="1" name="keybcs2_bin">
+      <Charset>keybcs2</Charset>
+    </collation>
+    <collation id="54" parent="1" name="keybcs2_general_ci">
+      <Charset>keybcs2</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="55" parent="1" name="koi8r_bin">
+      <Charset>koi8r</Charset>
+    </collation>
+    <collation id="56" parent="1" name="koi8r_general_ci">
+      <Charset>koi8r</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="57" parent="1" name="koi8u_bin">
+      <Charset>koi8u</Charset>
+    </collation>
+    <collation id="58" parent="1" name="koi8u_general_ci">
+      <Charset>koi8u</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="59" parent="1" name="latin1_bin">
+      <Charset>latin1</Charset>
+    </collation>
+    <collation id="60" parent="1" name="latin1_danish_ci">
+      <Charset>latin1</Charset>
+    </collation>
+    <collation id="61" parent="1" name="latin1_general_ci">
+      <Charset>latin1</Charset>
+    </collation>
+    <collation id="62" parent="1" name="latin1_general_cs">
+      <Charset>latin1</Charset>
+    </collation>
+    <collation id="63" parent="1" name="latin1_german1_ci">
+      <Charset>latin1</Charset>
+    </collation>
+    <collation id="64" parent="1" name="latin1_german2_ci">
+      <Charset>latin1</Charset>
+    </collation>
+    <collation id="65" parent="1" name="latin1_spanish_ci">
+      <Charset>latin1</Charset>
+    </collation>
+    <collation id="66" parent="1" name="latin1_swedish_ci">
+      <Charset>latin1</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="67" parent="1" name="latin2_bin">
+      <Charset>latin2</Charset>
+    </collation>
+    <collation id="68" parent="1" name="latin2_croatian_ci">
+      <Charset>latin2</Charset>
+    </collation>
+    <collation id="69" parent="1" name="latin2_czech_cs">
+      <Charset>latin2</Charset>
+    </collation>
+    <collation id="70" parent="1" name="latin2_general_ci">
+      <Charset>latin2</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="71" parent="1" name="latin2_hungarian_ci">
+      <Charset>latin2</Charset>
+    </collation>
+    <collation id="72" parent="1" name="latin5_bin">
+      <Charset>latin5</Charset>
+    </collation>
+    <collation id="73" parent="1" name="latin5_turkish_ci">
+      <Charset>latin5</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="74" parent="1" name="latin7_bin">
+      <Charset>latin7</Charset>
+    </collation>
+    <collation id="75" parent="1" name="latin7_estonian_cs">
+      <Charset>latin7</Charset>
+    </collation>
+    <collation id="76" parent="1" name="latin7_general_ci">
+      <Charset>latin7</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="77" parent="1" name="latin7_general_cs">
+      <Charset>latin7</Charset>
+    </collation>
+    <collation id="78" parent="1" name="macce_bin">
+      <Charset>macce</Charset>
+    </collation>
+    <collation id="79" parent="1" name="macce_general_ci">
+      <Charset>macce</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="80" parent="1" name="macroman_bin">
+      <Charset>macroman</Charset>
+    </collation>
+    <collation id="81" parent="1" name="macroman_general_ci">
+      <Charset>macroman</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="82" parent="1" name="sjis_bin">
+      <Charset>sjis</Charset>
+    </collation>
+    <collation id="83" parent="1" name="sjis_japanese_ci">
+      <Charset>sjis</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="84" parent="1" name="swe7_bin">
+      <Charset>swe7</Charset>
+    </collation>
+    <collation id="85" parent="1" name="swe7_swedish_ci">
+      <Charset>swe7</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="86" parent="1" name="tis620_bin">
+      <Charset>tis620</Charset>
+    </collation>
+    <collation id="87" parent="1" name="tis620_thai_ci">
+      <Charset>tis620</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="88" parent="1" name="ucs2_bin">
+      <Charset>ucs2</Charset>
+    </collation>
+    <collation id="89" parent="1" name="ucs2_croatian_ci">
+      <Charset>ucs2</Charset>
+    </collation>
+    <collation id="90" parent="1" name="ucs2_czech_ci">
+      <Charset>ucs2</Charset>
+    </collation>
+    <collation id="91" parent="1" name="ucs2_danish_ci">
+      <Charset>ucs2</Charset>
+    </collation>
+    <collation id="92" parent="1" name="ucs2_esperanto_ci">
+      <Charset>ucs2</Charset>
+    </collation>
+    <collation id="93" parent="1" name="ucs2_estonian_ci">
+      <Charset>ucs2</Charset>
+    </collation>
+    <collation id="94" parent="1" name="ucs2_general_ci">
+      <Charset>ucs2</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="95" parent="1" name="ucs2_general_mysql500_ci">
+      <Charset>ucs2</Charset>
+    </collation>
+    <collation id="96" parent="1" name="ucs2_german2_ci">
+      <Charset>ucs2</Charset>
+    </collation>
+    <collation id="97" parent="1" name="ucs2_hungarian_ci">
+      <Charset>ucs2</Charset>
+    </collation>
+    <collation id="98" parent="1" name="ucs2_icelandic_ci">
+      <Charset>ucs2</Charset>
+    </collation>
+    <collation id="99" parent="1" name="ucs2_latvian_ci">
+      <Charset>ucs2</Charset>
+    </collation>
+    <collation id="100" parent="1" name="ucs2_lithuanian_ci">
+      <Charset>ucs2</Charset>
+    </collation>
+    <collation id="101" parent="1" name="ucs2_persian_ci">
+      <Charset>ucs2</Charset>
+    </collation>
+    <collation id="102" parent="1" name="ucs2_polish_ci">
+      <Charset>ucs2</Charset>
+    </collation>
+    <collation id="103" parent="1" name="ucs2_roman_ci">
+      <Charset>ucs2</Charset>
+    </collation>
+    <collation id="104" parent="1" name="ucs2_romanian_ci">
+      <Charset>ucs2</Charset>
+    </collation>
+    <collation id="105" parent="1" name="ucs2_sinhala_ci">
+      <Charset>ucs2</Charset>
+    </collation>
+    <collation id="106" parent="1" name="ucs2_slovak_ci">
+      <Charset>ucs2</Charset>
+    </collation>
+    <collation id="107" parent="1" name="ucs2_slovenian_ci">
+      <Charset>ucs2</Charset>
+    </collation>
+    <collation id="108" parent="1" name="ucs2_spanish2_ci">
+      <Charset>ucs2</Charset>
+    </collation>
+    <collation id="109" parent="1" name="ucs2_spanish_ci">
+      <Charset>ucs2</Charset>
+    </collation>
+    <collation id="110" parent="1" name="ucs2_swedish_ci">
+      <Charset>ucs2</Charset>
+    </collation>
+    <collation id="111" parent="1" name="ucs2_turkish_ci">
+      <Charset>ucs2</Charset>
+    </collation>
+    <collation id="112" parent="1" name="ucs2_unicode_520_ci">
+      <Charset>ucs2</Charset>
+    </collation>
+    <collation id="113" parent="1" name="ucs2_unicode_ci">
+      <Charset>ucs2</Charset>
+    </collation>
+    <collation id="114" parent="1" name="ucs2_vietnamese_ci">
+      <Charset>ucs2</Charset>
+    </collation>
+    <collation id="115" parent="1" name="ujis_bin">
+      <Charset>ujis</Charset>
+    </collation>
+    <collation id="116" parent="1" name="ujis_japanese_ci">
+      <Charset>ujis</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="117" parent="1" name="utf16_bin">
+      <Charset>utf16</Charset>
+    </collation>
+    <collation id="118" parent="1" name="utf16_croatian_ci">
+      <Charset>utf16</Charset>
+    </collation>
+    <collation id="119" parent="1" name="utf16_czech_ci">
+      <Charset>utf16</Charset>
+    </collation>
+    <collation id="120" parent="1" name="utf16_danish_ci">
+      <Charset>utf16</Charset>
+    </collation>
+    <collation id="121" parent="1" name="utf16_esperanto_ci">
+      <Charset>utf16</Charset>
+    </collation>
+    <collation id="122" parent="1" name="utf16_estonian_ci">
+      <Charset>utf16</Charset>
+    </collation>
+    <collation id="123" parent="1" name="utf16_general_ci">
+      <Charset>utf16</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="124" parent="1" name="utf16_german2_ci">
+      <Charset>utf16</Charset>
+    </collation>
+    <collation id="125" parent="1" name="utf16_hungarian_ci">
+      <Charset>utf16</Charset>
+    </collation>
+    <collation id="126" parent="1" name="utf16_icelandic_ci">
+      <Charset>utf16</Charset>
+    </collation>
+    <collation id="127" parent="1" name="utf16_latvian_ci">
+      <Charset>utf16</Charset>
+    </collation>
+    <collation id="128" parent="1" name="utf16_lithuanian_ci">
+      <Charset>utf16</Charset>
+    </collation>
+    <collation id="129" parent="1" name="utf16_persian_ci">
+      <Charset>utf16</Charset>
+    </collation>
+    <collation id="130" parent="1" name="utf16_polish_ci">
+      <Charset>utf16</Charset>
+    </collation>
+    <collation id="131" parent="1" name="utf16_roman_ci">
+      <Charset>utf16</Charset>
+    </collation>
+    <collation id="132" parent="1" name="utf16_romanian_ci">
+      <Charset>utf16</Charset>
+    </collation>
+    <collation id="133" parent="1" name="utf16_sinhala_ci">
+      <Charset>utf16</Charset>
+    </collation>
+    <collation id="134" parent="1" name="utf16_slovak_ci">
+      <Charset>utf16</Charset>
+    </collation>
+    <collation id="135" parent="1" name="utf16_slovenian_ci">
+      <Charset>utf16</Charset>
+    </collation>
+    <collation id="136" parent="1" name="utf16_spanish2_ci">
+      <Charset>utf16</Charset>
+    </collation>
+    <collation id="137" parent="1" name="utf16_spanish_ci">
+      <Charset>utf16</Charset>
+    </collation>
+    <collation id="138" parent="1" name="utf16_swedish_ci">
+      <Charset>utf16</Charset>
+    </collation>
+    <collation id="139" parent="1" name="utf16_turkish_ci">
+      <Charset>utf16</Charset>
+    </collation>
+    <collation id="140" parent="1" name="utf16_unicode_520_ci">
+      <Charset>utf16</Charset>
+    </collation>
+    <collation id="141" parent="1" name="utf16_unicode_ci">
+      <Charset>utf16</Charset>
+    </collation>
+    <collation id="142" parent="1" name="utf16_vietnamese_ci">
+      <Charset>utf16</Charset>
+    </collation>
+    <collation id="143" parent="1" name="utf16le_bin">
+      <Charset>utf16le</Charset>
+    </collation>
+    <collation id="144" parent="1" name="utf16le_general_ci">
+      <Charset>utf16le</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="145" parent="1" name="utf32_bin">
+      <Charset>utf32</Charset>
+    </collation>
+    <collation id="146" parent="1" name="utf32_croatian_ci">
+      <Charset>utf32</Charset>
+    </collation>
+    <collation id="147" parent="1" name="utf32_czech_ci">
+      <Charset>utf32</Charset>
+    </collation>
+    <collation id="148" parent="1" name="utf32_danish_ci">
+      <Charset>utf32</Charset>
+    </collation>
+    <collation id="149" parent="1" name="utf32_esperanto_ci">
+      <Charset>utf32</Charset>
+    </collation>
+    <collation id="150" parent="1" name="utf32_estonian_ci">
+      <Charset>utf32</Charset>
+    </collation>
+    <collation id="151" parent="1" name="utf32_general_ci">
+      <Charset>utf32</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="152" parent="1" name="utf32_german2_ci">
+      <Charset>utf32</Charset>
+    </collation>
+    <collation id="153" parent="1" name="utf32_hungarian_ci">
+      <Charset>utf32</Charset>
+    </collation>
+    <collation id="154" parent="1" name="utf32_icelandic_ci">
+      <Charset>utf32</Charset>
+    </collation>
+    <collation id="155" parent="1" name="utf32_latvian_ci">
+      <Charset>utf32</Charset>
+    </collation>
+    <collation id="156" parent="1" name="utf32_lithuanian_ci">
+      <Charset>utf32</Charset>
+    </collation>
+    <collation id="157" parent="1" name="utf32_persian_ci">
+      <Charset>utf32</Charset>
+    </collation>
+    <collation id="158" parent="1" name="utf32_polish_ci">
+      <Charset>utf32</Charset>
+    </collation>
+    <collation id="159" parent="1" name="utf32_roman_ci">
+      <Charset>utf32</Charset>
+    </collation>
+    <collation id="160" parent="1" name="utf32_romanian_ci">
+      <Charset>utf32</Charset>
+    </collation>
+    <collation id="161" parent="1" name="utf32_sinhala_ci">
+      <Charset>utf32</Charset>
+    </collation>
+    <collation id="162" parent="1" name="utf32_slovak_ci">
+      <Charset>utf32</Charset>
+    </collation>
+    <collation id="163" parent="1" name="utf32_slovenian_ci">
+      <Charset>utf32</Charset>
+    </collation>
+    <collation id="164" parent="1" name="utf32_spanish2_ci">
+      <Charset>utf32</Charset>
+    </collation>
+    <collation id="165" parent="1" name="utf32_spanish_ci">
+      <Charset>utf32</Charset>
+    </collation>
+    <collation id="166" parent="1" name="utf32_swedish_ci">
+      <Charset>utf32</Charset>
+    </collation>
+    <collation id="167" parent="1" name="utf32_turkish_ci">
+      <Charset>utf32</Charset>
+    </collation>
+    <collation id="168" parent="1" name="utf32_unicode_520_ci">
+      <Charset>utf32</Charset>
+    </collation>
+    <collation id="169" parent="1" name="utf32_unicode_ci">
+      <Charset>utf32</Charset>
+    </collation>
+    <collation id="170" parent="1" name="utf32_vietnamese_ci">
+      <Charset>utf32</Charset>
+    </collation>
+    <collation id="171" parent="1" name="utf8_bin">
+      <Charset>utf8</Charset>
+    </collation>
+    <collation id="172" parent="1" name="utf8_croatian_ci">
+      <Charset>utf8</Charset>
+    </collation>
+    <collation id="173" parent="1" name="utf8_czech_ci">
+      <Charset>utf8</Charset>
+    </collation>
+    <collation id="174" parent="1" name="utf8_danish_ci">
+      <Charset>utf8</Charset>
+    </collation>
+    <collation id="175" parent="1" name="utf8_esperanto_ci">
+      <Charset>utf8</Charset>
+    </collation>
+    <collation id="176" parent="1" name="utf8_estonian_ci">
+      <Charset>utf8</Charset>
+    </collation>
+    <collation id="177" parent="1" name="utf8_general_ci">
+      <Charset>utf8</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="178" parent="1" name="utf8_general_mysql500_ci">
+      <Charset>utf8</Charset>
+    </collation>
+    <collation id="179" parent="1" name="utf8_german2_ci">
+      <Charset>utf8</Charset>
+    </collation>
+    <collation id="180" parent="1" name="utf8_hungarian_ci">
+      <Charset>utf8</Charset>
+    </collation>
+    <collation id="181" parent="1" name="utf8_icelandic_ci">
+      <Charset>utf8</Charset>
+    </collation>
+    <collation id="182" parent="1" name="utf8_latvian_ci">
+      <Charset>utf8</Charset>
+    </collation>
+    <collation id="183" parent="1" name="utf8_lithuanian_ci">
+      <Charset>utf8</Charset>
+    </collation>
+    <collation id="184" parent="1" name="utf8_persian_ci">
+      <Charset>utf8</Charset>
+    </collation>
+    <collation id="185" parent="1" name="utf8_polish_ci">
+      <Charset>utf8</Charset>
+    </collation>
+    <collation id="186" parent="1" name="utf8_roman_ci">
+      <Charset>utf8</Charset>
+    </collation>
+    <collation id="187" parent="1" name="utf8_romanian_ci">
+      <Charset>utf8</Charset>
+    </collation>
+    <collation id="188" parent="1" name="utf8_sinhala_ci">
+      <Charset>utf8</Charset>
+    </collation>
+    <collation id="189" parent="1" name="utf8_slovak_ci">
+      <Charset>utf8</Charset>
+    </collation>
+    <collation id="190" parent="1" name="utf8_slovenian_ci">
+      <Charset>utf8</Charset>
+    </collation>
+    <collation id="191" parent="1" name="utf8_spanish2_ci">
+      <Charset>utf8</Charset>
+    </collation>
+    <collation id="192" parent="1" name="utf8_spanish_ci">
+      <Charset>utf8</Charset>
+    </collation>
+    <collation id="193" parent="1" name="utf8_swedish_ci">
+      <Charset>utf8</Charset>
+    </collation>
+    <collation id="194" parent="1" name="utf8_turkish_ci">
+      <Charset>utf8</Charset>
+    </collation>
+    <collation id="195" parent="1" name="utf8_unicode_520_ci">
+      <Charset>utf8</Charset>
+    </collation>
+    <collation id="196" parent="1" name="utf8_unicode_ci">
+      <Charset>utf8</Charset>
+    </collation>
+    <collation id="197" parent="1" name="utf8_vietnamese_ci">
+      <Charset>utf8</Charset>
+    </collation>
+    <collation id="198" parent="1" name="utf8mb4_bin">
+      <Charset>utf8mb4</Charset>
+    </collation>
+    <collation id="199" parent="1" name="utf8mb4_croatian_ci">
+      <Charset>utf8mb4</Charset>
+    </collation>
+    <collation id="200" parent="1" name="utf8mb4_czech_ci">
+      <Charset>utf8mb4</Charset>
+    </collation>
+    <collation id="201" parent="1" name="utf8mb4_danish_ci">
+      <Charset>utf8mb4</Charset>
+    </collation>
+    <collation id="202" parent="1" name="utf8mb4_esperanto_ci">
+      <Charset>utf8mb4</Charset>
+    </collation>
+    <collation id="203" parent="1" name="utf8mb4_estonian_ci">
+      <Charset>utf8mb4</Charset>
+    </collation>
+    <collation id="204" parent="1" name="utf8mb4_general_ci">
+      <Charset>utf8mb4</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="205" parent="1" name="utf8mb4_german2_ci">
+      <Charset>utf8mb4</Charset>
+    </collation>
+    <collation id="206" parent="1" name="utf8mb4_hungarian_ci">
+      <Charset>utf8mb4</Charset>
+    </collation>
+    <collation id="207" parent="1" name="utf8mb4_icelandic_ci">
+      <Charset>utf8mb4</Charset>
+    </collation>
+    <collation id="208" parent="1" name="utf8mb4_latvian_ci">
+      <Charset>utf8mb4</Charset>
+    </collation>
+    <collation id="209" parent="1" name="utf8mb4_lithuanian_ci">
+      <Charset>utf8mb4</Charset>
+    </collation>
+    <collation id="210" parent="1" name="utf8mb4_persian_ci">
+      <Charset>utf8mb4</Charset>
+    </collation>
+    <collation id="211" parent="1" name="utf8mb4_polish_ci">
+      <Charset>utf8mb4</Charset>
+    </collation>
+    <collation id="212" parent="1" name="utf8mb4_roman_ci">
+      <Charset>utf8mb4</Charset>
+    </collation>
+    <collation id="213" parent="1" name="utf8mb4_romanian_ci">
+      <Charset>utf8mb4</Charset>
+    </collation>
+    <collation id="214" parent="1" name="utf8mb4_sinhala_ci">
+      <Charset>utf8mb4</Charset>
+    </collation>
+    <collation id="215" parent="1" name="utf8mb4_slovak_ci">
+      <Charset>utf8mb4</Charset>
+    </collation>
+    <collation id="216" parent="1" name="utf8mb4_slovenian_ci">
+      <Charset>utf8mb4</Charset>
+    </collation>
+    <collation id="217" parent="1" name="utf8mb4_spanish2_ci">
+      <Charset>utf8mb4</Charset>
+    </collation>
+    <collation id="218" parent="1" name="utf8mb4_spanish_ci">
+      <Charset>utf8mb4</Charset>
+    </collation>
+    <collation id="219" parent="1" name="utf8mb4_swedish_ci">
+      <Charset>utf8mb4</Charset>
+    </collation>
+    <collation id="220" parent="1" name="utf8mb4_turkish_ci">
+      <Charset>utf8mb4</Charset>
+    </collation>
+    <collation id="221" parent="1" name="utf8mb4_unicode_520_ci">
+      <Charset>utf8mb4</Charset>
+    </collation>
+    <collation id="222" parent="1" name="utf8mb4_unicode_ci">
+      <Charset>utf8mb4</Charset>
+    </collation>
+    <collation id="223" parent="1" name="utf8mb4_vietnamese_ci">
+      <Charset>utf8mb4</Charset>
+    </collation>
+    <schema id="224" parent="1" name="3anglefx">
+      <Current>1</Current>
+      <CollationName>utf8_czech_ci</CollationName>
+    </schema>
+    <schema id="225" parent="1" name="api.imediafile.com">
+      <Grants>sms_exponea|||sms_exponea||SELECT|G</Grants>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </schema>
+    <schema id="226" parent="1" name="coinfy.io">
+      <CollationName>latin1_swedish_ci</CollationName>
+    </schema>
+    <schema id="227" parent="1" name="connectpay.virarosi.com">
+      <CollationName>latin1_swedish_ci</CollationName>
+    </schema>
+    <schema id="228" parent="1" name="dev.gotradinglive.com">
+      <CollationName>utf8_general_ci</CollationName>
+    </schema>
+    <schema id="229" parent="1" name="gotradinglive">
+      <CollationName>utf8_bin</CollationName>
+    </schema>
+    <schema id="230" parent="1" name="information_schema">
+      <CollationName>utf8_general_ci</CollationName>
+    </schema>
+    <schema id="231" parent="1" name="mkortanek">
+      <CollationName>latin1_swedish_ci</CollationName>
+    </schema>
+    <schema id="232" parent="1" name="mysql">
+      <CollationName>latin1_swedish_ci</CollationName>
+    </schema>
+    <schema id="233" parent="1" name="performance_schema">
+      <CollationName>utf8_general_ci</CollationName>
+    </schema>
+    <schema id="234" parent="1" name="phpmyadmin">
+      <CollationName>latin1_swedish_ci</CollationName>
+    </schema>
+    <schema id="235" parent="1" name="pineal.cz">
+      <CollationName>latin1_swedish_ci</CollationName>
+    </schema>
+    <schema id="236" parent="1" name="rates">
+      <CollationName>latin1_swedish_ci</CollationName>
+    </schema>
+    <schema id="237" parent="1" name="start2bpro.com">
+      <CollationName>latin1_swedish_ci</CollationName>
+    </schema>
+    <schema id="238" parent="1" name="sys">
+      <CollationName>utf8_general_ci</CollationName>
+    </schema>
+    <schema id="239" parent="1" name="top10">
+      <CollationName>latin1_swedish_ci</CollationName>
+    </schema>
+    <schema id="240" parent="1" name="triangle">
+      <CollationName>latin1_swedish_ci</CollationName>
+    </schema>
+    <schema id="241" parent="1" name="trianglemarkets">
+      <CollationName>utf8_bin</CollationName>
+    </schema>
+    <schema id="242" parent="1" name="users_reset">
+      <CollationName>utf8_czech_ci</CollationName>
+    </schema>
+    <schema id="243" parent="1" name="voicespin">
+      <CollationName>latin1_swedish_ci</CollationName>
+    </schema>
+    <user id="244" parent="1" name="24htrading.co.uk">
+      <Host>localhost</Host>
+    </user>
+    <user id="245" parent="1" name="3anglefx">
+      <Host>localhost</Host>
+    </user>
+    <user id="246" parent="1" name="api.imediafile.com">
+      <Host>localhost</Host>
+    </user>
+    <user id="247" parent="1" name="bankersmarkets.c">
+      <Host>localhost</Host>
+    </user>
+    <user id="248" parent="1" name="brokerjet.asia">
+      <Host>localhost</Host>
+    </user>
+    <user id="249" parent="1" name="coinfy.io">
+      <Host>localhost</Host>
+    </user>
+    <user id="250" parent="1" name="connectpay.virarosi.com">
+      <Host>localhost</Host>
+    </user>
+    <user id="251" parent="1" name="debian-sys-maint">
+      <Host>localhost</Host>
+    </user>
+    <user id="252" parent="1" name="derimarkets.com">
+      <Host>localhost</Host>
+    </user>
+    <user id="253" parent="1" name="dev.bankersmarkets.co.uk">
+      <Host>localhost</Host>
+    </user>
+    <user id="254" parent="1" name="dev.brokerjet.asia">
+      <Host>localhost</Host>
+    </user>
+    <user id="255" parent="1" name="dev.coverdealfx.com">
+      <Host>localhost</Host>
+    </user>
+    <user id="256" parent="1" name="dev.gotradinglive.com">
+      <Host>localhost</Host>
+    </user>
+    <user id="257" parent="1" name="didyfx.com">
+      <Host>localhost</Host>
+    </user>
+    <user id="258" parent="1" name="double.trade">
+      <Host>localhost</Host>
+    </user>
+    <user id="259" parent="1" name="easyforex.pro">
+      <Host>localhost</Host>
+    </user>
+    <user id="260" parent="1" name="getrichjournal">
+      <Host>localhost</Host>
+    </user>
+    <user id="261" parent="1" name="gotradinglive">
+      <Host>localhost</Host>
+    </user>
+    <user id="262" parent="1" name="investicnisoutez.cz">
+      <Host>localhost</Host>
+    </user>
+    <user id="263" parent="1" name="key-marketing.eu">
+      <Host>localhost</Host>
+    </user>
+    <user id="264" parent="1" name="landing.dukaspro">
+      <Host>localhost</Host>
+    </user>
+    <user id="265" parent="1" name="landing.nelsonfx">
+      <Host>localhost</Host>
+    </user>
+    <user id="266" parent="1" name="landing.velmarke">
+      <Host>localhost</Host>
+    </user>
+    <user id="267" parent="1" name="landing">
+      <Host>localhost</Host>
+    </user>
+    <user id="268" parent="1" name="mkortanek">
+      <Host>localhost</Host>
+    </user>
+    <user id="269" parent="1" name="mysql.session">
+      <Host>localhost</Host>
+    </user>
+    <user id="270" parent="1" name="mysql.sys">
+      <Host>localhost</Host>
+    </user>
+    <user id="271" parent="1" name="nelsonfx.com">
+      <Host>localhost</Host>
+    </user>
+    <user id="272" parent="1" name="phpmyadmin">
+      <Host>localhost</Host>
+    </user>
+    <user id="273" parent="1" name="pineal.cz">
+      <Host>localhost</Host>
+    </user>
+    <user id="274" parent="1" name="rates">
+      <Host>localhost</Host>
+    </user>
+    <user id="275" parent="1" name="root">
+      <Host>localhost</Host>
+    </user>
+    <user id="276" parent="1" name="sms_exponea"/>
+    <user id="277" parent="1" name="start2bpro.com">
+      <Host>localhost</Host>
+    </user>
+    <user id="278" parent="1" name="top10">
+      <Host>localhost</Host>
+    </user>
+    <user id="279" parent="1" name="traderkryptomeny">
+      <Host>localhost</Host>
+    </user>
+    <user id="280" parent="1" name="triangle">
+      <Host>localhost</Host>
+    </user>
+    <user id="281" parent="1" name="trianglemarkets">
+      <Host>localhost</Host>
+    </user>
+    <user id="282" parent="1" name="velmarket.com">
+      <Host>localhost</Host>
+    </user>
+    <user id="283" parent="1" name="versat.capital">
+      <Host>localhost</Host>
+    </user>
+    <user id="284" parent="1" name="voicespin">
+      <Host>localhost</Host>
+    </user>
+    <table id="285" parent="225" name="phone_verification">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="286" parent="225" name="phone_verification_phones">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="287" parent="225" name="sms_exponea">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="288" parent="236" name="history_rates">
+      <Engine>InnoDB</Engine>
+      <CollationName>utf8_unicode_ci</CollationName>
+    </table>
+    <table id="289" parent="236" name="report_history">
+      <Engine>InnoDB</Engine>
+      <CollationName>utf8_general_ci</CollationName>
+    </table>
+    <column id="290" parent="285" name="id">
+      <AutoIncrement>59939</AutoIncrement>
+      <DasType>int(11)|0s</DasType>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+    </column>
+    <column id="291" parent="285" name="dt">
+      <DasType>timestamp|0s</DasType>
+      <DefaultExpression>CURRENT_TIMESTAMP</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+    </column>
+    <column id="292" parent="285" name="ip">
+      <DasType>varchar(15)|0s</DasType>
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+    </column>
+    <column id="293" parent="285" name="counter">
+      <DasType>int(11)|0s</DasType>
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>4</Position>
+    </column>
+    <column id="294" parent="285" name="session">
+      <DasType>varchar(40)|0s</DasType>
+      <NotNull>1</NotNull>
+      <Position>5</Position>
+    </column>
+    <index id="295" parent="285" name="PRIMARY">
+      <ColNames>id</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="296" parent="285" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="297" parent="286" name="id">
+      <AutoIncrement>24772</AutoIncrement>
+      <DasType>int(11)|0s</DasType>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+    </column>
+    <column id="298" parent="286" name="session_id">
+      <DasType>int(11)|0s</DasType>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+    </column>
+    <column id="299" parent="286" name="phone">
+      <DasType>varchar(20)|0s</DasType>
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+    </column>
+    <column id="300" parent="286" name="dt">
+      <DasType>timestamp|0s</DasType>
+      <DefaultExpression>CURRENT_TIMESTAMP</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>4</Position>
+    </column>
+    <column id="301" parent="286" name="status">
+      <DasType>tinyint(4)|0s</DasType>
+      <NotNull>1</NotNull>
+      <Position>5</Position>
+    </column>
+    <index id="302" parent="286" name="PRIMARY">
+      <ColNames>id</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="303" parent="286" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="304" parent="287" name="id">
+      <AutoIncrement>29</AutoIncrement>
+      <DasType>int(11)|0s</DasType>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+    </column>
+    <column id="305" parent="287" name="cutomer_data">
+      <DasType>mediumtext|0s</DasType>
+      <Position>2</Position>
+    </column>
+    <column id="306" parent="287" name="create_dt">
+      <DasType>timestamp|0s</DasType>
+      <DefaultExpression>CURRENT_TIMESTAMP</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+    </column>
+    <column id="307" parent="287" name="phone">
+      <DasType>varchar(20)|0s</DasType>
+      <NotNull>1</NotNull>
+      <Position>4</Position>
+    </column>
+    <column id="308" parent="287" name="message">
+      <DasType>varchar(250)|0s</DasType>
+      <NotNull>1</NotNull>
+      <Position>5</Position>
+    </column>
+    <column id="309" parent="287" name="external_id">
+      <DasType>varchar(50)|0s</DasType>
+      <NotNull>1</NotNull>
+      <Position>6</Position>
+    </column>
+    <index id="310" parent="287" name="PRIMARY">
+      <ColNames>id</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="311" parent="287" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="312" parent="288" name="id">
+      <AutoIncrement>9264</AutoIncrement>
+      <DasType>int(11)|0s</DasType>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+    </column>
+    <column id="313" parent="288" name="date">
+      <DasType>varchar(20)|0s</DasType>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+    </column>
+    <column id="314" parent="288" name="rates">
+      <DasType>text|0s</DasType>
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+    </column>
+    <index id="315" parent="288" name="PRIMARY">
+      <ColNames>id</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="316" parent="288" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="317" parent="289" name="id">
+      <AutoIncrement>19</AutoIncrement>
+      <DasType>int(11)|0s</DasType>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+    </column>
+    <column id="318" parent="289" name="link">
+      <DasType>varchar(200)|0s</DasType>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+    </column>
+    <column id="319" parent="289" name="data">
+      <DasType>longtext|0s</DasType>
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+    </column>
+    <index id="320" parent="289" name="PRIMARY">
+      <ColNames>id</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="321" parent="289" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+  </database-model>
+</dataSource>

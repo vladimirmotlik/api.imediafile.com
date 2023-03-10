@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="73483333-ce20-401c-84cc-a2275b097821" name="rolada">
+        <fileTransfer rootFolder="/var/www/" accessType="SFTP" host="217.16.188.46" port="22" sshConfigId="fffff7e4-45de-42a2-b457-624550c470a3" sshConfig="root@217.16.188.46:22 password">
+          <advancedOptions>
+            <advancedOptions controlEncoding="utf8" dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

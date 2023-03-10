@@ -1,0 +1,14 @@
+order deny,allow
+deny from all
+allow from 217.16.188.48
+allow from 62.168.42.38
+allow from 217.16.188.47
+allow from 93.185.103.30
+allow from 197.221.2.230
+allow from 80.211.201.54
+allow from 35.214.226.168
+allow from 35.214.245.112
+allow from 77.240.99.229
+
+
+Options -indexes
